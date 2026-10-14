@@ -1,0 +1,13 @@
+name: enterprise-sales-case-study
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas=2.3
+  - numpy=2.3
+  - plotly=6
+  - faker=40
+  - ipykernel=7
+  - nbformat
+  - nbclient
+  - pyyaml

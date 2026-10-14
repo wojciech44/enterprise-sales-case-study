@@ -1,0 +1,831 @@
+Opportunity_ID,Account_Name,Region,Country,Industry,Product,Contract_Type,Stage,ACV_USD,TCV_USD,Created_Date,Close_Date,Sales_Rep,Notes
+OPP-10591,Henderson Ltd,APAC,Australia,Government,Fusion 360,EBA,Qualification ,971783.0,2560499.27,2023-08-05,2024-01-28,Alyssa Henry,White perform step item manage.
+OPP-10508,Mcbride-Brown,AMER,Mexico,Energy,Fusion 360,Subscription,Closed Lost,133969.05,386470.61,2024-02-18,2025-08-07,Donald Mccarty,
+OPP-10446,Moore Inc,AMER,Brazil,Engineering,Civil 3D,Subscription,Qualification,253523.13,636995.38,2023-03-03,2025-04-06,Christina Steele,Second firm institution and chance deal realize.
+OPP-10140,"Harmon, Davis and Rodriguez",Emea,Poland,,Forma,Flex,Closed Won,95821.05,121866.03,2023-06-15,2025-10-17,Mrs. Megan Smith DDS,
+OPP-10681,Meyer-White,APAC,Singapore,Media & Entertainment,Civil 3D,Flex,Prospecting,164929.58,450268.06,2023-12-02,16/04/2025,Donald Mccarty,
+OPP-10388,Perry PLC,APac,India,Government,Fusion 360,Flex,CLOSED LOST,342569.18,806206.04,2024-05-24,2024-07-17,Jennifer Cummings,
+OPP-10593,"Huang, Lloyd and Murray",AMER,Mexico,Government,Inventor,EBA,Closed Lost,713657.87,744926.5,2024-02-14,25/01/2024,Nicole Mason,
+OPP-10574,Mcdonald LLC,apac,Japan,Engineering,Inventor,EBA,Prospecting,642332.15,1461495.71,2024-11-05,2025-08-21,Erin Villegas,Lot father to Congress data agency.
+OPP-10738,Johnson Inc,EMEA ,United Kingdom,Manufacturing,Civil 3D,Flex,PROPOSAL,47828.64,124341.78,2024-06-06,2024-04-07,Mrs. Megan Smith DDS,Sort method true imagine American heart budget right.
+OPP-10272,"Smith, Torres and Horton",EMEA ,France,Engineering,Revit,Flex,CLOSED LOST,290606.3,622197.46,2024-04-16,2024-03-09,Gary Weaver,
+OPP-10375,Parker Ltd,AMER,Brazil,Engineering,Revit,Subscription,closed won,24729.85,45493.01,2023-06-16,03/06/2024,Donald White,
+OPP-10464,Rice-Smith,AMER,Brazil,Engineering,Inventor,Flex,Closed Won,158751.26,420401.75,2024-01-17,03/09/2025,Hannah Rivera,
+OPP-10620,Miller PLC,apac,Singapore,Construction,Civil 3D,Subscription,Prospecting,150547.78,428460.48,2024-07-01,01/03/2025,Donald White,
+OPP-10741,"Weiss, Medina and Hall",Emea,Poland,,Civil 3D,Flex,Prospecting,146346.1,407972.86,2024-09-09,16/03/2025,Jennifer Cummings,
+OPP-10537,Ramirez-Barrett,APac,Singapore,Energy,Forma,Flex,Closed Won,255245.64,364126.94,2024-10-28,2024-09-20,Joseph Brown,Later large suffer view.
+OPP-10518,Miller and Sons,APac,Singapore,Construction,Civil 3D,EBA,Closed Won,750809.1,2148143.1,2023-08-21,02/01/2025,Nathan Gray,Customer last morning almost.
+OPP-10013,"Rosales, Everett and Barnett",amer,Canada,Architecture,AutoCAD,Flex,Qualification ,316403.12,407742.89,2023-01-30,27/01/2024,Matthew Bautista,
+OPP-10744,"Zamora, Thompson and Navarro",APAC,Singapore,Government,Fusion 360,Flex,Closed Won,254459.6,381960.27,2023-01-10,28/06/2025,Thomas Rivera,
+OPP-10264,Mcdaniel-Burke,EMEA,France,Architecture,Inventor,Flex,PROPOSAL,486915.05,1089337.56,2023-05-19,23/01/2025,Emily Walker,To shake try true daughter can star.
+OPP-10316,Simmons Group,APac,India,Engineering,AutoCAD,EBA,closed won,0.0,,2024-05-07,29/12/2025,Dr. Amanda Reyes,
+OPP-10220,"Roberson, Smith and Knapp",APac,Singapore,Government,Fusion 360,Subscription,Prospecting,94681.83,234178.11,2023-07-18,16/12/2024,Jennifer Cummings,
+OPP-10125,Flores-Perez,emea,France,Energy,Fusion 360,EBA,PROPOSAL,911347.6,2314657.09,2024-11-16,05/11/2025,Mrs. Megan Smith DDS,
+OPP-10034,Smith and Sons,APAC,South Korea,Manufacturing,BIM 360,EBA,Qualification ,1466581.3,4270904.61,2023-05-30,14/12/2024,Mrs. Megan Smith DDS,
+OPP-10564,Carrillo-Sanchez,APac,Singapore,Manufacturing,BIM 360,EBA,Closed Lost,1585164.95,4158983.72,2023-10-29,2024-09-09,Mary Christian,
+OPP-10794,"Cruz, Combs and Johnson",amer,Canada,Architecture,Forma,Flex,Negotiation,458933.1,1362243.85,2023-05-24,2024-05-20,Shannon Gray,
+OPP-10308,Ortega-Davis,APac,India,Government,Fusion 360,Subscription,Negotiation,,259836.43,2023-12-15,25/08/2025,Katherine Hughes,Bill after often himself true along present.
+OPP-10472,"Miller, Sims and Rosales",emea,France,Government,BIM 360,EBA,Closed Won,1600860.52,2537483.55,2024-06-08,2025-08-01,Brandon Thompson,
+OPP-10534,Bennett PLC,amer,United States,Energy,Revit,Flex,PROPOSAL,269753.48,671512.11,2024-04-28,2024-06-19,Alyssa Henry,
+OPP-10098,"Lopez, Bell and Herrera",emea,Poland,Government,Forma,Flex,Qualification ,161851.77,480450.34,2023-12-08,2024-07-30,Julie Molina,Seem collection start question into worker family.
+OPP-10061,Peterson Group,apac,India,Architecture,Revit,Flex,closed won,119681.52,191456.36,2024-02-02,2024-09-20,Robert Adams,
+OPP-10721,Dean LLC,EMEA ,United Kingdom,,Forma,Subscription,closed won,83264.15,234590.03,2024-03-20,2025-05-20,Gary Weaver,
+OPP-10350,Bradshaw-Brown,APac,Japan,Manufacturing,Civil 3D,Flex,Qualification,121647.24,347184.14,2023-05-22,07/07/2025,Robert Burns,
+OPP-10252,Malone-Schmidt,APAC,South Korea,Architecture,Fusion 360,EBA,Closed Lost,1052371.5,2933732.09,2023-08-18,08/01/2024,Shannon Gray,
+OPP-10110,"Horn, Jensen and Sanchez",emea,United Kingdom,Construction,AutoCAD,EBA,Proposal,493571.12,504003.69,2023-09-17,2025-04-08,Julie Molina,
+OPP-10423,Rice Inc,amer,Canada,Architecture,Revit,EBA,Qualification ,9999999.0,,2024-02-23,24/04/2025,Veronica Newman,Event age window.
+OPP-10408,Howell Inc,APAC,India,Government,Inventor,Flex,Closed Lost,230568.07,349048.5,2024-03-05,2024-07-25,Debra Dawson,
+OPP-10504,"Walters, Clark and Barajas",EMEA ,UAE,Construction,Forma,Flex,Closed Won,194155.54,552546.96,2024-11-21,2024-07-06,Alyssa Henry,
+OPP-10644,"Graham, Burgess and Smith",amer,Canada,Engineering,Revit,EBA,Closed Lost,1054407.48,1335431.16,2023-05-28,2025-12-07,Shannon Gray,Some former as ask want Mrs radio.
+OPP-10334,Williams Inc,emea,France,Media & Entertainment,AutoCAD,Flex,closed won,205423.41,382045.02,2023-02-12,19/06/2025,Mrs. Donna Ward,
+OPP-10565,Smith-Logan,APac,Japan,Media & Entertainment,AutoCAD,EBA,Proposal,317361.85,402349.64,2023-12-08,04/09/2025,Robert Burns,
+OPP-10263,"Hale, Martinez and Adkins",APAC,Australia,Manufacturing,AutoCAD,Subscription,Qualification ,149413.67,175439.11,2023-12-20,25/01/2024,Matthew Moore,
+OPP-10791,Shields LLC,AMER,Brazil,Construction,Fusion 360,EBA,Qualification,361901.96,973527.67,2024-10-22,2025-12-13,Thomas Rivera,
+OPP-10674,Gilmore-Sloan,APac,South Korea,Media & Entertainment,Forma,EBA,Negotiation,585798.15,617401.81,2023-08-14,2025-10-31,Jonathan Reeves,Worker executive which your billion.
+OPP-10063,Ruiz-Wilcox,emea,Germany,Manufacturing,Revit,Subscription,Qualification ,284661.48,346518.52,2024-07-15,22/02/2025,Jennifer Logan,
+OPP-10540,"Lowery, Deleon and Snyder",APac,Singapore,Media & Entertainment,Forma,EBA,Proposal,1450210.11,1518616.78,2024-08-14,2024-05-20,Nicole Mason,Memory remember majority true.
+OPP-10367,"Castaneda, Lowe and Haynes",APac,Australia,Construction,Civil 3D,Subscription,Closed Won,207486.66,435971.43,2023-04-19,24/04/2024,Justin Mills,Land image also major.
+OPP-10764,Wilson-Garcia,amer,Brazil,Energy,Inventor,Subscription,PROPOSAL,59883.71,147304.6,2024-05-20,17/04/2025,Donald White,
+OPP-10639,Watkins-May,EMEA,Netherlands,Government,Inventor,EBA,Qualification,,3067597.58,2024-05-31,11/07/2022,Gary Weaver,
+OPP-10188,Gordon Inc,APac,Singapore,Engineering,Inventor,EBA,Negotiation,180398.04,373416.98,2024-08-01,2024-05-20,Frank Cochran,
+OPP-10142,"Williams, Mercado and Miller",Emea,France,Energy,AutoCAD,Subscription,Negotiation,93357.8,120836.77,2024-05-13,22/07/2024,Justin Mills,Who seem eight serious record once scene.
+OPP-10399,"Nguyen, Soto and Parks",APAC,Japan,Architecture,Forma,Subscription,Closed Won,77169.42,78143.75,2023-10-06,2025-02-10,Erin Villegas,
+OPP-10360,Jacobson and Sons,emea,UAE,Energy,Revit,Subscription,Proposal,211172.34,277554.59,2023-01-22,2024-01-03,Erin Villegas,
+OPP-10053,Rubio-Wolf,APAC,South Korea,Construction,BIM 360,Subscription,Proposal,264210.91,364345.0,2024-12-07,11/01/2024,Deborah Rodriguez,
+OPP-10757,Webb Ltd,apac,Australia,Engineering,AutoCAD,Flex,Qualification,104356.91,216618.65,2023-09-08,2025-04-09,Jonathan Reeves,Item action reason movement step news finish.
+OPP-10244,Haynes LLC,AMER,Brazil,Media & Entertainment,Forma,EBA,Closed Lost,575128.27,1421055.35,2024-06-03,25/10/2024,Emily Walker,
+OPP-10751,"Chandler, Harper and Baker",AMER,United States,Government,BIM 360,EBA,Qualification,1348857.47,2106302.9,2024-01-21,2024-05-29,Deborah Rodriguez,
+OPP-10273,Warner-Ortiz,EMEA,UAE,Media & Entertainment,Civil 3D,EBA,Closed Lost,1378415.47,3065817.04,2023-07-23,04/05/2025,Donald Mccarty,Fear control program investment magazine coach offer.
+OPP-10278,Johnson LLC,emea,UAE,Energy,Forma,Flex,PROPOSAL,421426.57,839952.09,2023-08-08,2025-11-13,Mary Christian,Close center talk happen.
+OPP-10372,Grant-Young,EMEA,Germany,Engineering,BIM 360,Flex,Closed Won,465880.14,855289.49,2024-01-17,2024-07-17,Robert Burns,
+OPP-10541,Lewis PLC,APAC,South Korea,Energy,Forma,EBA,Prospecting,572971.34,1203296.55,2024-01-13,2024-03-13,Brandon Thompson,
+OPP-10283,Decker Inc,APAC,Japan,Energy,Revit,Flex,Closed Won,77060.99,197831.07,2024-03-20,03/01/2024,Cynthia Gay,
+OPP-10664,Mccarthy Ltd,emea,Germany,Engineering,Civil 3D,Flex,closed won,18324.4,19994.92,2024-04-26,12/02/2024,Donald Moore,
+OPP-10403,"Carter, Archer and Munoz",AMER,Canada,Government,AutoCAD,Flex,Qualification,87564.9,141413.99,2024-09-29,2025-10-29,Donald Mccarty,
+OPP-10358,"Black, Jensen and Martin",EMEA,Poland,,Fusion 360,Flex,Qualification ,346152.1,683230.01,2023-02-16,2025-01-05,Shannon Gray,
+OPP-10466,"Good, Moran and Ortiz",amer,United States,Media & Entertainment,BIM 360,Flex,Qualification ,323645.33,723337.93,2023-06-10,11/03/2025,Mrs. Donna Ward,
+OPP-10205,"Weaver, Rose and Fields",AMER,United States,Media & Entertainment,Forma,Flex,Proposal,70889.58,141559.01,2024-10-02,21/09/2024,Christina Steele,
+OPP-10138,Berry and Sons,apac,India,Architecture,Revit,EBA,Prospecting,511462.26,1077588.23,2023-04-14,2024-10-02,Catherine Lewis,Occur performance light unit field phone.
+OPP-10666,"Kane, Snyder and Davis",AMER,Mexico,Architecture,BIM 360,EBA,Closed Lost,1046863.23,1861826.57,2023-10-07,2024-12-10,Justin Brown DDS,
+OPP-10776,Nguyen-Reynolds,AMER,Brazil,,Forma,EBA,PROPOSAL,1142173.01,1889494.64,2023-09-19,2024-12-31,Jonathan Reeves,
+OPP-10242,May Group,EMEA,United Kingdom,Architecture,Inventor,Subscription,CLOSED LOST,234299.54,595163.1,2024-12-04,2024-09-28,Dr. Amanda Reyes,
+OPP-10754,"Rodgers, Vargas and Holt",apac,India,Architecture,Inventor,Flex,Negotiation,178854.42,410650.82,2023-03-10,22/10/2022,Alyssa Henry,
+OPP-10094,Rose Group,emea,Germany,Government,Revit,EBA,closed won,866921.74,984756.41,2024-06-06,2024-10-23,Donald Mccarty,
+OPP-10186,Wright Group,APac,Japan,Manufacturing,BIM 360,Flex,closed won,0.0,,2024-12-07,21/07/2025,Christopher King,A bad on beyond.
+OPP-10470,"Phillips, Brown and Medina",emea,United Kingdom,Manufacturing,Civil 3D,EBA,Negotiation,1606903.32,3255521.38,2024-10-21,2025-06-17,Emily Walker,
+OPP-10683,Strickland-Caldwell,amer,Mexico,Media & Entertainment,Civil 3D,Subscription,CLOSED LOST,70679.89,208061.61,2023-09-27,15/02/2024,Nicole Mason,
+OPP-10097,Mathews-Cox,emea,Germany,Media & Entertainment,AutoCAD,EBA,Negotiation,1524204.8,2624492.64,2024-08-06,2024-11-01,Robert Burns,
+OPP-10108,Kelly-Atkinson,EMEA,UAE,Construction,Revit,Subscription,PROPOSAL,101018.75,239980.33,2024-06-19,03/11/2025,Christopher King,
+OPP-10765,Adams and Sons,Emea,Netherlands,,BIM 360,Subscription,Closed Won,45397.4,100869.77,2024-12-15,02/11/2025,Katherine Hughes,
+OPP-10146,Werner Ltd,apac,India,Manufacturing,Fusion 360,Subscription,Closed Won,101330.68,205492.87,2024-06-13,2025-08-22,Mrs. Donna Ward,Piece build challenge moment positive.
+OPP-10736,"Walsh, Reeves and Ali",amer,United States,Government,Revit,Flex,CLOSED LOST,9999999.0,,2023-11-23,2025-03-29,Katherine Hughes,Available art performance.
+OPP-10660,"Martinez, Hernandez and Travis",APac,Japan,Architecture,AutoCAD,Subscription,Closed Won,121516.58,153696.23,2024-07-10,2024-03-01,Christopher King,
+OPP-10649,Guzman-Black,APAC,Singapore,Engineering,Revit,EBA,CLOSED LOST,1580895.11,2890405.77,2023-05-12,2025-05-19,Emily Walker,
+OPP-10412,Johnson and Sons,EMEA ,UAE,Engineering,Fusion 360,EBA,Proposal,881715.57,1357205.73,2024-12-23,2024-09-21,Matthew Bautista,
+OPP-10627,Dawson Ltd,APAC,India,Media & Entertainment,AutoCAD,Subscription,Closed Lost,297758.06,797453.06,2023-02-12,2025-11-26,Mrs. Megan Smith DDS,He benefit chair rate degree.
+OPP-10699,Garcia PLC,AMER,Brazil,Media & Entertainment,Inventor,EBA,Qualification ,1861530.16,2415584.46,2024-12-13,26/03/2024,Gary Weaver,
+OPP-10277,Kelly-Lambert,amer,Canada,Engineering,Forma,Flex,Qualification,149380.71,235039.48,2023-12-12,2024-01-09,Katherine Hughes,
+OPP-10336,Cook-Weaver,apac,South Korea,Architecture,AutoCAD,Flex,Prospecting,299767.33,441705.69,2024-04-09,20/03/2024,Mary Christian,Second film each back bad.
+OPP-10485,"Espinoza, Macias and Burns",APAC,Australia,Construction,Fusion 360,Subscription,Proposal,77661.53,213914.14,2024-01-20,02/09/2024,Christopher King,
+OPP-10563,Jenkins-Moore,EMEA,France,Architecture,BIM 360,Flex,PROPOSAL,39095.99,70749.68,2023-10-18,02/12/2024,Emily Walker,If pull behavior value talk cell.
+OPP-10543,Rodriguez-Wilson,APAC,Australia,Construction,Fusion 360,Flex,Qualification ,167266.29,212089.11,2024-07-13,2024-03-19,Justin Mills,
+OPP-10148,Wright Inc,emea,Netherlands,Architecture,Civil 3D,EBA,Negotiation,1783858.21,3505868.54,2023-08-04,01/01/2024,Frank Cochran,
+OPP-10048,"Shannon, Perry and Clark",APac,Australia,Construction,BIM 360,Subscription,PROPOSAL,171084.03,316956.84,2023-10-17,2024-11-24,Veronica Newman,
+OPP-10641,"Ingram, Moore and Odonnell",APAC,Singapore,Media & Entertainment,BIM 360,Subscription,PROPOSAL,205602.78,238479.45,2024-08-20,25/02/2024,Jennifer Cummings,
+OPP-10253,"Mitchell, Payne and Curry",amer,Mexico,Manufacturing,Civil 3D,Flex,Qualification,265555.87,438297.83,2023-10-03,2024-02-08,Matthew Moore,
+OPP-10531,Stevenson-Jackson,emea,Netherlands,Media & Entertainment,Revit,EBA,CLOSED LOST,862343.53,2290508.53,2023-06-17,2024-03-04,Donald Moore,
+OPP-10159,"Chapman, Sanchez and Myers",EMEA ,UAE,,Revit,Flex,CLOSED LOST,9999999.0,,2023-07-16,19/12/2024,Jeremy Mendoza,
+OPP-10299,Johnson-Maxwell,Emea,Netherlands,Manufacturing,AutoCAD,Flex,closed won,96744.35,262949.85,2023-12-08,2025-01-21,Joseph Brown,
+OPP-10454,"Jackson, Smith and White",APAC,India,Government,Civil 3D,Flex,prospecting,291306.21,439820.0,2023-01-23,01/11/2022,Nathan Gray,
+OPP-10547,West Inc,apac,Japan,Construction,Inventor,EBA,Qualification,764811.96,1451146.38,2023-06-01,06/04/2025,Veronica Newman,
+OPP-10771,"Fleming, Good and Smith",Emea,France,Energy,Inventor,EBA,Closed Won,1814315.98,1943939.12,2023-08-10,2025-06-20,Jeremy Mendoza,
+OPP-10606,Hogan-Butler,AMER,Canada,Government,Civil 3D,Flex,CLOSED LOST,10376.89,17680.78,2024-01-20,2024-11-21,Hannah Rivera,
+OPP-10015,Ayers-Randall,AMER,Brazil,Engineering,Inventor,Flex,Proposal,331623.39,673019.08,2024-05-04,2025-05-19,Jonathan Reeves,
+OPP-10788,Cooper and Sons,Emea,Netherlands,Media & Entertainment,AutoCAD,Subscription,Qualification,173284.23,514637.25,2023-09-16,2025-01-28,Brandon Thompson,Home industry trial what point realize although way.
+OPP-10060,Burns Group,amer,Canada,Government,Forma,Subscription,Prospecting,26807.58,53109.16,2023-10-17,03/12/2025,Jeremy Mendoza,
+OPP-10270,Perry PLC,EMEA,United Kingdom,Media & Entertainment,Forma,Subscription,prospecting,112470.65,294860.44,2023-06-27,2024-02-08,Matthew Moore,
+OPP-10046,Dennis LLC,amer,Brazil,Construction,Fusion 360,EBA,PROPOSAL,1241696.71,3547791.91,2024-05-24,2024-07-16,Mrs. Donna Ward,Whole guess any authority learn however around.
+OPP-10407,Torres LLC,apac,India,Media & Entertainment,Fusion 360,Flex,Closed Lost,401775.04,647798.25,2023-01-08,29/12/2025,Dustin Hall,
+OPP-10489,Shelton Group,emea,United Kingdom,Media & Entertainment,Fusion 360,EBA,Closed Won,931108.25,1359262.98,2024-10-10,22/09/2024,Erin Villegas,Chance senior property item with same role local.
+OPP-10658,"Fox, Watson and Williams",EMEA,Germany,Architecture,Inventor,Subscription,CLOSED LOST,147508.27,206490.49,2023-03-11,01/02/2025,Jeremy Mendoza,
+OPP-10707,Rodriguez-Cross,amer,Canada,Architecture,Fusion 360,Subscription,Proposal,174883.44,230259.88,2024-10-19,2024-06-27,Julie Molina,
+OPP-10756,Scott-Gibson,emea,France,Government,Revit,EBA,Qualification,1049644.62,2125800.64,2023-03-15,2024-05-21,Matthew Bautista,
+OPP-10057,Alvarez-Rogers,emea,Germany,Architecture,BIM 360,Flex,Prospecting,474808.81,620192.91,2023-06-29,24/12/2024,Mrs. Megan Smith DDS,
+OPP-10565,Smith-Logan,APac,Japan,Media & Entertainment,AutoCAD,EBA,Proposal,317361.85,402349.64,2023-12-08,04/09/2025,Robert Burns,
+OPP-10382,Thomas-Black,apac,India,Energy,Civil 3D,Subscription,Proposal,283108.72,502041.92,2024-01-05,2024-09-02,Julie Molina,Tax raise wonder determine check.
+OPP-10569,Miller and Sons,EMEA,UAE,Engineering,BIM 360,Subscription,Proposal,45541.43,77841.76,2023-06-20,2025-12-23,Erin Villegas,
+OPP-10760,"Shannon, Jensen and Brady",APAC,India,Construction,Fusion 360,EBA,Negotiation,1617079.95,2330559.44,2023-03-07,27/05/2024,Christina Steele,
+OPP-10294,"Brown, Phillips and Valentine",APAC,Australia,Energy,Forma,EBA,CLOSED LOST,200744.4,406690.18,2024-07-12,2024-03-26,Emily Walker,Onto kid writer clear happy test physical.
+OPP-10722,Rojas-Flores,AMER,Brazil,Architecture,Civil 3D,Subscription,Closed Lost,29496.2,62639.38,2023-11-16,2025-11-02,Matthew Bautista,Art tax send city plant seven boy better.
+OPP-10767,"Tucker, Maldonado and Caldwell",emea,Netherlands,Energy,BIM 360,EBA,CLOSED LOST,1746350.89,1840886.56,2023-01-05,2024-04-25,Robert Burns,Economic indicate leave newspaper.
+OPP-10228,Griffin and Sons,Emea,Netherlands,Energy,BIM 360,EBA,Qualification ,0.0,,2023-04-11,19/11/2025,Jennifer Cummings,
+OPP-10127,"Glass, Smith and Carter",APAC,India,Manufacturing,BIM 360,Flex,Closed Lost,,244274.22,2023-09-16,2024-05-07,Jeremy Mendoza,Become close summer citizen traditional glass.
+OPP-10271,"Greene, Weeks and Jennings",APac,South Korea,Architecture,Inventor,Flex,CLOSED LOST,372590.75,1060056.02,2023-07-09,30/08/2024,Robert Adams,
+OPP-10651,Hill-Shepherd,APac,Singapore,Government,Revit,Subscription,Proposal,248107.02,463627.09,2023-02-24,15/05/2024,Catherine Lewis,
+OPP-10431,Sanchez-Deleon,amer,Mexico,Architecture,AutoCAD,EBA,Qualification,1060625.48,1674221.46,2023-09-13,13/08/2024,Jonathan Reeves,
+OPP-10054,"Garner, Nguyen and Chapman",AMER,Mexico,Engineering,AutoCAD,Subscription,Closed Won,208402.31,278161.54,2023-04-29,2024-06-11,Jeremy Mendoza,Significant strategy hope local dream strategy former.
+OPP-10435,"Stewart, King and Donaldson",apac,India,Energy,Fusion 360,EBA,Qualification,1199391.64,1266022.55,2023-03-24,12/02/2025,Catherine Lewis,
+OPP-10505,King Group,apac,South Korea,Architecture,Forma,Flex,closed won,9999999.0,,2023-12-20,09/12/2025,Katherine Hughes,
+OPP-10179,Harris Inc,APAC,South Korea,,Inventor,Subscription,Proposal,186833.53,407572.62,2023-09-19,25/10/2025,Jeremy Mendoza,
+OPP-10117,"May, Cox and Freeman",APAC,Australia,Architecture,BIM 360,Subscription,PROPOSAL,36366.79,100210.95,2023-10-13,2025-03-22,Nathan Gray,
+OPP-10510,"Gibson, Craig and Jones",EMEA,UAE,,Forma,EBA,Qualification,458024.46,657543.59,2023-01-15,2025-01-02,Robert Burns,
+OPP-10689,"Roberts, Mitchell and Ferrell",APAC,India,Government,AutoCAD,Flex,Qualification ,399407.49,834577.41,2024-02-03,29/06/2024,Gary Weaver,Contain say science and particular indicate.
+OPP-10752,Gibson-Peterson,Emea,France,Energy,Civil 3D,Flex,Prospecting,293889.89,374249.04,2023-01-01,2024-10-19,Hannah Rivera,
+OPP-10134,Cooper and Sons,APAC,Japan,Architecture,Forma,Flex,Qualification ,183100.09,389383.99,2023-10-25,2024-08-24,Frank Cochran,
+OPP-10340,"Lloyd, Williams and Diaz",EMEA ,UAE,,BIM 360,Flex,Proposal,61565.54,123844.95,2024-01-17,12/05/2025,Donald White,Cell yes fight by good tree shoulder particularly.
+OPP-10659,Boyer and Sons,Emea,Netherlands,Manufacturing,Fusion 360,Flex,Closed Lost,486508.6,1038568.41,2023-01-26,26/11/2025,Brandon Thompson,
+OPP-10168,Howell-Reid,AMER,Canada,Energy,AutoCAD,Flex,Qualification,231132.88,595860.58,2024-06-07,05/05/2024,Nathan Gray,
+OPP-10532,Owens PLC,AMER,United States,Architecture,AutoCAD,Flex,Prospecting,112829.73,218130.28,2023-09-04,2024-04-19,Mrs. Donna Ward,
+OPP-10597,"Sanders, Jones and Smith",emea,United Kingdom,Manufacturing,BIM 360,EBA,PROPOSAL,1980699.13,5917869.09,2023-10-17,2025-01-02,Julie Molina,
+OPP-10595,Bradford-Macdonald,APAC,Japan,Manufacturing,Civil 3D,Subscription,Prospecting,283334.09,370554.78,2024-11-20,2025-08-03,Erin Villegas,Project fine skin history.
+OPP-10050,Martin-Walters,APac,Japan,,BIM 360,Flex,Prospecting,33131.7,91026.38,2023-07-12,26/12/2024,Emily Walker,
+OPP-10655,Higgins-Owen,APAC,India,Media & Entertainment,Fusion 360,EBA,Qualification,561498.71,1550320.5,2023-04-14,13/05/2024,Frank Cochran,
+OPP-10514,Taylor-Dunn,AMER,United States,Architecture,Civil 3D,Subscription,closed won,69639.83,81501.3,2023-04-10,2024-09-07,Gary Weaver,
+OPP-10528,Johnson-Wright,amer,United States,Construction,AutoCAD,Subscription,Closed Lost,62691.61,147597.14,2024-04-19,2022-12-09,Mrs. Megan Smith DDS,
+OPP-10081,Morgan and Sons,APAC,Japan,,Inventor,Flex,Prospecting,410528.35,632944.47,2024-08-30,2024-07-07,Donald Mccarty,
+OPP-10396,"Murphy, Snyder and Robertson",APac,Japan,Construction,Civil 3D,Subscription,closed won,58951.08,89401.75,2024-11-13,07/10/2025,Joseph Brown,
+OPP-10571,Newton-Hernandez,EMEA ,Germany,Government,Revit,EBA,closed won,1460162.57,1481842.06,2024-12-18,06/07/2025,Dustin Hall,
+OPP-10239,Richards and Sons,EMEA ,Poland,Energy,Inventor,EBA,Closed Lost,1508913.75,4154471.29,2023-08-28,12/03/2025,Emily Walker,
+OPP-10066,Flores-Mendoza,amer,United States,,AutoCAD,EBA,PROPOSAL,729593.68,1189967.34,2023-06-04,2024-08-06,Jennifer Logan,
+OPP-10666,"Kane, Snyder and Davis",AMER,Mexico,Architecture,BIM 360,EBA,Closed Lost,1046863.23,1861826.57,2023-10-07,2024-12-10,Justin Brown DDS,
+OPP-10009,Anderson Inc,emea,Netherlands,Construction,Civil 3D,EBA,prospecting,1087401.16,1776551.61,2023-08-03,2024-05-03,Donald Mccarty,
+OPP-10594,Williams-Smith,EMEA,United Kingdom,Manufacturing,BIM 360,Flex,Prospecting,429659.32,590196.39,2024-07-12,2025-02-15,Robert Burns,Mother different may behavior news final.
+OPP-10153,"Smith, Moore and Arnold",emea,France,Engineering,Revit,Subscription,Qualification,181404.74,360142.28,2023-04-14,2024-03-25,Gary Weaver,President mean fund letter.
+OPP-10507,Solomon-Smith,EMEA,Germany,Government,Inventor,Flex,Prospecting,255097.95,300286.39,2024-04-12,29/04/2022,Shannon Gray,
+OPP-10379,"Gutierrez, Moreno and Kline",APac,Singapore,Manufacturing,Fusion 360,Subscription,Qualification,156832.69,232144.4,2024-08-31,04/12/2025,Nicole Mason,Drop analysis reality still power or.
+OPP-10318,Saunders-Alexander,EMEA ,Germany,Engineering,BIM 360,Flex,PROPOSAL,179402.42,274387.78,2024-04-17,2025-07-21,Emily Walker,
+OPP-10441,Hendricks Ltd,APac,India,Architecture,Revit,Flex,closed won,371006.99,908388.7,2023-10-16,12/02/2025,Thomas Rivera,
+OPP-10793,Morales Group,EMEA,Poland,Architecture,BIM 360,EBA,PROPOSAL,665556.23,1605690.5,2024-10-01,2025-11-30,Jennifer Logan,
+OPP-10601,Shaffer-Smith,APAC,Singapore,Media & Entertainment,AutoCAD,Flex,Prospecting,261456.97,549199.67,2024-04-10,2024-06-12,Mrs. Megan Smith DDS,Question quickly billion win explain.
+OPP-10669,"Cooper, Jones and Evans",APac,South Korea,Media & Entertainment,Forma,EBA,PROPOSAL,1279469.73,2981133.5,2023-07-15,15/11/2024,Alyssa Henry,
+OPP-10064,Pearson LLC,APAC,Australia,Government,Revit,EBA,PROPOSAL,439930.79,1305391.28,2023-07-04,16/04/2022,Shannon Gray,Light test less federal school.
+OPP-10371,Myers-Ross,APac,Australia,Architecture,AutoCAD,Flex,PROPOSAL,358164.69,869906.19,2024-10-04,2024-01-14,Jonathan Reeves,
+OPP-10204,Gross PLC,AMER,Mexico,Energy,AutoCAD,Flex,Qualification ,305030.23,417748.92,2023-01-18,01/10/2025,Frank Cochran,
+OPP-10349,"Curtis, Rosario and Sanchez",emea,France,Engineering,Forma,EBA,Negotiation,900418.41,2694872.83,2023-02-09,15/03/2025,Nicole Mason,Wait hundred president sister laugh evening.
+OPP-10602,"Baker, Martin and Cox",APac,Singapore,Architecture,Forma,EBA,CLOSED LOST,996640.07,1000989.87,2024-10-18,2025-10-24,Justin Mills,
+OPP-10572,Allen Ltd,AMER,Mexico,Construction,Inventor,Subscription,Negotiation,63490.91,174296.15,2023-06-24,2025-08-26,Robert Burns,
+OPP-10624,Gibbs PLC,amer,Brazil,Manufacturing,AutoCAD,EBA,Closed Lost,1466910.05,3717678.67,2023-03-25,2022-04-18,Robert Adams,
+OPP-10256,"Molina, Wilson and Snyder",EMEA,Netherlands,Energy,AutoCAD,Flex,PROPOSAL,423904.07,776662.71,2023-06-16,20/05/2024,Erin Villegas,Brother room into court.
+OPP-10634,Wilson PLC,EMEA,United Kingdom,Energy,Forma,Subscription,Qualification ,47232.91,118741.28,2024-09-14,2024-09-25,Shannon Gray,
+OPP-10609,"Patrick, Roberts and King",amer,Canada,Engineering,Fusion 360,Subscription,Proposal,147957.55,269498.45,2023-02-21,2024-09-19,Donald Moore,
+OPP-10300,Chambers-Peterson,AMER,Mexico,Engineering,BIM 360,Subscription,Proposal,116012.81,118707.85,2024-09-18,20/08/2022,Mrs. Donna Ward,
+OPP-10493,"Woods, Williams and Anderson",Emea,Poland,Media & Entertainment,Revit,Subscription,Qualification ,,250888.45,2023-01-15,14/09/2024,Nathan Gray,
+OPP-10792,Gutierrez-Williams,emea,United Kingdom,Energy,AutoCAD,EBA,Prospecting,1240265.87,3357667.38,2024-07-20,2025-03-30,Dustin Hall,Source feel every environment evening agreement.
+OPP-10445,"Walters, Carr and Pierce",Emea,Germany,Engineering,BIM 360,EBA,closed won,1156347.88,3206080.69,2023-01-04,2024-11-25,Christina Steele,
+OPP-10556,Garcia-Stewart,emea,Netherlands,Construction,Forma,EBA,PROPOSAL,1891520.25,3316724.46,2023-08-02,2024-07-08,Hannah Rivera,Alone meet million you throughout account.
+OPP-10365,Wheeler-Jackson,emea,Netherlands,Manufacturing,BIM 360,EBA,Prospecting,411710.81,983909.01,2024-06-17,10/07/2024,Katherine Hughes,
+OPP-10051,Wells PLC,EMEA,Poland,Engineering,Fusion 360,Subscription,Prospecting,34101.97,75912.15,2024-12-30,2024-11-23,Robert Adams,Budget likely effort plant only.
+OPP-10690,Martin-Clark,apac,Singapore,Manufacturing,BIM 360,Subscription,prospecting,135376.27,154817.73,2023-06-15,2024-06-18,Mrs. Megan Smith DDS,Since learn family player.
+OPP-10484,Fletcher-Coleman,APAC,Japan,Government,Inventor,EBA,Qualification ,,1822601.01,2023-08-03,2024-12-27,Erin Villegas,Minute front view list energy.
+OPP-10430,Long PLC,AMER,United States,Construction,Inventor,EBA,Closed Won,216699.28,293932.12,2023-12-27,2024-04-16,Erin Villegas,Medical goal because detail fish enter.
+OPP-10709,"Bolton, Hill and Morris",EMEA,UAE,Government,AutoCAD,Subscription,Closed Lost,78017.58,105689.94,2024-10-02,05/09/2024,Alyssa Henry,Hope whose government election general simple cup under.
+OPP-10667,Sanders-Wall,EMEA ,France,Government,AutoCAD,Flex,Qualification ,387336.26,831252.42,2024-06-05,15/01/2024,Mary Christian,Matter offer eye.
+OPP-10732,Wiggins-Stewart,AMER,Brazil,Engineering,Inventor,EBA,Closed Won,,,2023-10-29,2025-10-31,Brandon Thompson,
+OPP-10449,Johnson-Fuentes,APac,South Korea,Government,BIM 360,EBA,PROPOSAL,,2914080.87,2023-11-30,26/12/2025,Alyssa Henry,
+OPP-10463,Wolfe-Perez,Emea,Poland,Engineering,Civil 3D,Flex,Closed Won,466895.06,1071539.38,2023-07-05,2024-05-07,Mrs. Megan Smith DDS,
+OPP-10540,"Lowery, Deleon and Snyder",APac,Singapore,Media & Entertainment,Forma,EBA,Proposal,1450210.11,1518616.78,2024-08-14,2024-05-20,Nicole Mason,Memory remember majority true.
+OPP-10209,Fuller-Hammond,apac,India,Media & Entertainment,Fusion 360,Flex,Proposal,261360.27,774828.63,2023-04-22,2025-01-12,Debra Dawson,From fish commercial property medical buy.
+OPP-10232,Hurst-Flores,EMEA,United Kingdom,Government,BIM 360,Flex,Qualification ,142359.54,394459.93,2024-03-29,05/09/2025,Joseph Brown,Blue color we business dark bar.
+OPP-10568,Bowers and Sons,EMEA,UAE,Manufacturing,Forma,Subscription,CLOSED LOST,79302.98,115555.33,2024-12-19,2024-01-27,Donald White,
+OPP-10770,"Stanley, Chavez and Obrien",Emea,Netherlands,Energy,Fusion 360,Subscription,Prospecting,60400.18,167912.37,2023-04-06,31/07/2025,Donald White,
+OPP-10542,"Moore, Cook and Dalton",APAC,Japan,Construction,Revit,Subscription,Closed Lost,73638.4,135584.66,2023-01-04,2022-03-02,Jonathan Reeves,
+OPP-10074,Miller-Beltran,emea,United Kingdom,Manufacturing,Forma,EBA,Prospecting,1512531.52,2513526.81,2023-06-09,2025-08-19,Christopher King,
+OPP-10302,"Horne, Blair and Davis",APac,South Korea,Manufacturing,Revit,Subscription,Prospecting,45550.52,51759.04,2024-05-06,03/06/2024,Mary Christian,
+OPP-10781,"Robinson, Good and Rios",APac,Singapore,Architecture,Revit,Flex,Qualification,245558.42,269156.56,2023-01-02,2025-09-09,Jonathan Reeves,Network accept anyone hot.
+OPP-10128,Wright and Sons,apac,South Korea,Manufacturing,Civil 3D,Flex,closed won,107603.11,137673.31,2024-10-05,16/05/2025,Cynthia Gay,
+OPP-10567,Rosario-Estrada,apac,Singapore,Engineering,Civil 3D,EBA,Closed Lost,881717.95,2389404.33,2023-04-13,2025-05-08,Justin Brown DDS,
+OPP-10457,Peterson-Dunn,EMEA,United Kingdom,Architecture,Forma,EBA,Qualification,1928182.06,2619016.89,2024-02-14,23/10/2024,Dustin Hall,World improve standard.
+OPP-10109,"Dominguez, Porter and Williams",apac,Japan,Energy,Forma,Subscription,Qualification ,268489.14,711620.78,2023-05-28,14/03/2024,Dustin Hall,
+OPP-10025,King LLC,EMEA ,France,Government,AutoCAD,Subscription,prospecting,159651.08,208720.35,2024-11-07,2025-03-24,Debra Dawson,Hit seven agency better.
+OPP-10544,"Lewis, Harris and Floyd",apac,South Korea,,AutoCAD,Flex,PROPOSAL,194426.47,308251.03,2023-06-14,20/08/2024,Catherine Lewis,Or cell audience dog nature.
+OPP-10716,Johnson-Harmon,AMER,United States,Architecture,Fusion 360,Subscription,Closed Lost,147182.2,264407.49,2024-01-31,2024-10-08,Donald Mccarty,
+OPP-10746,Salinas-Santiago,APAC,Japan,Engineering,Forma,Flex,Closed Lost,17323.69,22326.73,2024-01-13,2025-04-08,Debra Dawson,
+OPP-10665,"Delgado, Salazar and Contreras",EMEA ,Germany,Media & Entertainment,Revit,Subscription,CLOSED LOST,56140.75,87352.43,2024-07-07,2025-09-18,Frank Cochran,
+OPP-10381,White-Parks,AMER,Canada,Government,AutoCAD,EBA,PROPOSAL,1128653.7,2685809.71,2024-01-18,2024-09-30,Justin Brown DDS,
+OPP-10688,Orr LLC,amer,Brazil,Government,Civil 3D,Flex,CLOSED LOST,90201.93,189422.29,2023-06-29,2024-11-03,Jeremy Mendoza,
+OPP-10705,"Bright, Jimenez and Hebert",APAC,India,Energy,AutoCAD,EBA,PROPOSAL,741553.23,950151.44,2023-04-08,2025-02-15,Katherine Hughes,Account new notice writer.
+OPP-10411,"Ewing, Payne and Martin",emea,United Kingdom,Construction,Forma,Flex,Closed Lost,267014.93,669523.52,2023-12-24,15/10/2024,Mrs. Megan Smith DDS,Sport pick new newspaper hair.
+OPP-10750,Matthews Group,APac,Singapore,Media & Entertainment,AutoCAD,EBA,Qualification,326156.39,720280.72,2024-08-13,2024-09-02,Gary Weaver,
+OPP-10099,"Cisneros, Kirk and Alexander",apac,India,Media & Entertainment,Civil 3D,Subscription,Proposal,201772.17,206296.67,2024-09-23,2024-04-19,Justin Brown DDS,Reveal late seek fire they feel happen.
+OPP-10192,Fowler-Greer,AMER,Brazil,Government,Revit,EBA,Qualification,233627.71,522693.51,2023-08-03,2024-07-21,Robert Adams,
+OPP-10024,Cruz-Lopez,EMEA,UAE,Government,Inventor,Flex,Closed Lost,418821.22,981982.74,2023-10-10,2024-05-23,Thomas Rivera,
+OPP-10191,Garza Group,emea,Netherlands,Manufacturing,Fusion 360,EBA,prospecting,574259.07,762954.12,2024-03-13,2025-12-14,Christopher King,House pay interesting mission PM theory.
+OPP-10218,Jacobs Inc,APAC,Australia,Manufacturing,AutoCAD,EBA,Prospecting,525887.09,1005105.65,2024-09-14,31/03/2024,Erin Villegas,Tough generation manage seek about society sense.
+OPP-10510,"Gibson, Craig and Jones",EMEA,UAE,,Forma,EBA,Qualification,458024.46,657543.59,2023-01-15,2025-01-02,Robert Burns,
+OPP-10515,"Martinez, Cantrell and Wilson",APac,Singapore,Government,BIM 360,Flex,PROPOSAL,,659385.23,2023-01-19,2024-07-12,Erin Villegas,Age finish minute much.
+OPP-10306,Martinez-Dillon,apac,Australia,Construction,Forma,Subscription,Qualification,180391.42,278116.7,2024-02-15,2025-04-17,Jennifer Cummings,Month exist cup myself phone hair.
+OPP-10327,Taylor Inc,EMEA,Netherlands,Government,AutoCAD,Flex,Closed Won,134358.63,206321.01,2023-04-02,2025-09-04,Thomas Rivera,People control number wife value new television.
+OPP-10409,Shaw-Juarez,APAC,Japan,Manufacturing,Fusion 360,Flex,Qualification ,28441.18,78653.05,2024-08-01,12/03/2025,Shannon Gray,
+OPP-10630,Jones LLC,EMEA ,France,Government,Inventor,Subscription,Prospecting,205274.35,458823.72,2023-03-23,2025-03-30,Debra Dawson,Light score local surface clear live choice development.
+OPP-10261,"Barron, Cook and Moran",emea,Netherlands,Government,Inventor,Subscription,Closed Won,91337.12,259258.79,2023-01-07,2024-05-12,Mrs. Megan Smith DDS,
+OPP-10371,Myers-Ross,APac,Australia,Architecture,AutoCAD,Flex,PROPOSAL,358164.69,869906.19,2024-10-04,2024-01-14,Jonathan Reeves,
+OPP-10070,"Hamilton, Mccarty and Garcia",Emea,France,Construction,BIM 360,EBA,PROPOSAL,1628737.69,4574407.11,2023-06-23,08/01/2025,Mary Christian,
+OPP-10703,Long-White,APAC,South Korea,Government,BIM 360,EBA,Qualification,1670641.06,3021335.57,2023-03-15,2025-01-16,Robert Burns,
+OPP-10347,Meyer LLC,amer,Mexico,Energy,Forma,Subscription,prospecting,238944.3,272742.13,2023-07-27,14/11/2024,Jeremy Mendoza,
+OPP-10397,"Garner, Cole and Adams",Emea,Netherlands,Government,Forma,Flex,Qualification,490042.24,1085373.19,2023-05-26,2024-06-14,Jeremy Mendoza,Pull hundred exist great well of behavior party.
+OPP-10251,Peters-Sweeney,EMEA,Netherlands,Construction,Civil 3D,EBA,Qualification ,1274684.51,3700736.36,2023-08-17,2025-05-31,Deborah Rodriguez,
+OPP-10385,"Camacho, Jones and Sullivan",EMEA ,Germany,Government,Revit,Flex,Closed Lost,140190.59,194980.81,2023-10-20,2024-02-23,Kathleen Smith,Measure small plan goal.
+OPP-10390,"Schmitt, Miller and Farmer",AMER,Brazil,,Forma,EBA,Closed Won,,347287.05,2024-10-26,15/06/2025,Dr. Amanda Reyes,Care whole different message attorney sing activity.
+OPP-10727,White-Blair,APac,Singapore,Construction,Inventor,Flex,Proposal,101885.93,124545.11,2024-07-21,2024-03-22,Brandon Thompson,
+OPP-10467,Cain Inc,Emea,Poland,Media & Entertainment,Fusion 360,EBA,Qualification,714756.6,1241165.39,2024-12-30,2024-11-16,Gary Weaver,
+OPP-10084,Carson Group,Emea,UAE,Construction,Fusion 360,Subscription,Qualification,291277.06,821486.43,2024-04-02,2025-01-13,Erin Villegas,
+OPP-10513,"Gonzalez, Becker and Williams",APac,South Korea,Media & Entertainment,BIM 360,Flex,Closed Lost,14364.13,43091.67,2024-07-10,25/03/2024,Brandon Thompson,
+OPP-10351,Smith-Jackson,apac,South Korea,Energy,Fusion 360,Flex,prospecting,204562.29,221952.2,2023-01-10,2025-08-31,Nicole Mason,Road challenge late share tonight argue.
+OPP-10724,Garcia-Simpson,EMEA ,Germany,Manufacturing,AutoCAD,EBA,PROPOSAL,937114.14,1544224.46,2024-05-12,2025-08-28,Alyssa Henry,
+OPP-10171,"Boyer, Gonzalez and Brown",AMER,United States,Architecture,Inventor,EBA,Prospecting,181674.46,216547.73,2024-03-01,08/01/2024,Jennifer Cummings,
+OPP-10585,Thompson-Perry,APAC,South Korea,Energy,Fusion 360,Flex,Closed Lost,15282.33,32380.56,2024-07-02,13/01/2025,Robert Adams,
+OPP-10296,Henderson and Sons,Emea,Poland,Construction,Civil 3D,Subscription,Qualification ,134904.31,247896.81,2023-01-12,06/07/2025,Erin Villegas,
+OPP-10418,"White, Johnson and James",Emea,Netherlands,Manufacturing,Inventor,EBA,prospecting,1878915.32,4399474.61,2023-07-29,2024-10-30,Katherine Hughes,
+OPP-10478,Jones PLC,APac,Singapore,Media & Entertainment,Fusion 360,Flex,prospecting,399454.47,545035.82,2024-05-23,12/06/2024,Thomas Rivera,
+OPP-10222,"Blackburn, Mccarthy and Kennedy",EMEA ,France,Government,Civil 3D,EBA,Prospecting,988249.69,2222541.74,2024-02-17,2025-09-04,Brandon Thompson,Rich whether glass improve find place key.
+OPP-10551,"Hansen, Phillips and Padilla",Emea,Germany,Manufacturing,BIM 360,Subscription,PROPOSAL,22043.04,47908.19,2024-05-26,28/12/2025,Mary Christian,
+OPP-10022,Morris PLC,emea,UAE,Manufacturing,Revit,Subscription,Closed Lost,64647.86,82247.58,2023-10-31,03/02/2025,Nicole Mason,
+OPP-10672,"Williamson, Higgins and Haynes",Emea,UAE,Manufacturing,Civil 3D,Flex,Closed Lost,91215.71,91669.57,2023-10-27,12/06/2025,Joseph Brown,
+OPP-10259,Mcdonald-Berry,EMEA ,France,Architecture,BIM 360,EBA,Closed Lost,579365.69,954767.54,2024-10-20,2024-04-28,Alyssa Henry,
+OPP-10002,"Green, Perez and Simmons",amer,Brazil,Government,Forma,Flex,Closed Won,115258.28,254401.97,2023-08-22,16/04/2025,Mary Christian,
+OPP-10229,Gomez Group,Emea,United Kingdom,Engineering,Fusion 360,EBA,Proposal,425561.27,615986.9,2024-10-03,11/02/2024,Donald White,
+OPP-10289,Miller LLC,AMER,United States,Engineering,Forma,EBA,Prospecting,1048459.31,3022659.13,2023-09-16,2022-12-02,Frank Cochran,Particularly real open see big.
+OPP-10285,"Carr, Smith and Cooper",EMEA,Poland,Engineering,AutoCAD,Subscription,prospecting,212769.61,516017.9,2023-07-20,2025-06-04,Debra Dawson,
+OPP-10353,Hanson-Phillips,EMEA,Germany,Architecture,BIM 360,EBA,Negotiation,836255.72,1951589.04,2023-10-02,16/12/2025,Dr. Amanda Reyes,
+OPP-10719,Graham Group,AMER,Mexico,Energy,BIM 360,Subscription,Qualification ,70098.72,86023.55,2023-04-18,2025-02-02,Christina Steele,
+OPP-10132,"Wright, Thomas and Schroeder",AMER,Canada,Government,BIM 360,Flex,Negotiation,303861.0,395253.6,2023-08-07,25/08/2024,Brandon Thompson,Listen visit art hair always environmental.
+OPP-10199,Ward Inc,Emea,Netherlands,Government,Revit,Subscription,Proposal,,172092.68,2023-01-28,2025-11-11,Justin Mills,
+OPP-10115,Myers LLC,Emea,Netherlands,Government,AutoCAD,Subscription,Qualification,27662.09,70397.95,2023-09-13,06/01/2024,Robert Adams,
+OPP-10632,"Franklin, Huff and Burns",amer,Brazil,,AutoCAD,EBA,PROPOSAL,1177719.42,1299810.72,2023-08-10,2025-02-01,Christina Steele,
+OPP-10487,Wilson-Padilla,Emea,Germany,,Fusion 360,EBA,closed won,1643390.18,4927462.16,2024-12-22,2025-11-30,Matthew Moore,South leave program weight above prevent here.
+OPP-10645,"Carrillo, Hall and Sanchez",APAC,Singapore,Manufacturing,Fusion 360,EBA,Qualification,1854884.85,5043306.63,2023-06-17,2025-02-08,Dr. Amanda Reyes,
+OPP-10725,Richard Ltd,amer,Mexico,Architecture,AutoCAD,EBA,Qualification,330857.96,948141.25,2023-05-19,2024-11-06,Mrs. Donna Ward,Education recognize argue lawyer meeting white memory.
+OPP-10065,Steele LLC,APAC,South Korea,Government,Forma,EBA,Qualification,1016872.56,1088667.08,2023-11-20,17/09/2025,Christopher King,Result newspaper cultural push.
+OPP-10694,Berger-Hart,AMER,Canada,Media & Entertainment,Forma,EBA,Qualification,1960869.43,3611827.46,2023-03-16,2024-08-01,Nathan Gray,
+OPP-10680,Walker Group,APAC,South Korea,Engineering,AutoCAD,EBA,Prospecting,394117.07,1107696.82,2024-08-26,2025-07-22,Emily Walker,
+OPP-10323,Howard-Parrish,APac,South Korea,Energy,Forma,EBA,Proposal,574458.93,693759.07,2023-01-13,06/02/2024,Frank Cochran,Fine but set bad race poor.
+OPP-10603,Hill Inc,APAC,Australia,Government,Revit,Flex,Negotiation,17622.43,23798.4,2023-01-18,2024-09-02,Matthew Bautista,
+OPP-10642,Hudson Inc,APac,India,Engineering,Inventor,Subscription,Proposal,124361.64,301821.49,2023-12-05,01/02/2025,Deborah Rodriguez,
+OPP-10352,Williams and Sons,amer,Canada,Government,AutoCAD,EBA,prospecting,1088894.21,2574096.18,2024-09-07,2022-06-18,Robert Burns,
+OPP-10626,Jackson Group,APAC,South Korea,Energy,Revit,EBA,Qualification ,,2597315.6,2023-07-14,2025-09-11,Robert Burns,Much cover item girl chance.
+OPP-10177,Santana-Morse,emea,United Kingdom,Government,Fusion 360,EBA,Qualification,1202678.17,3280485.82,2024-04-26,2024-08-11,Emily Walker,
+OPP-10037,"Gonzalez, Anderson and Torres",EMEA ,Netherlands,Architecture,Fusion 360,Flex,Qualification ,184966.34,475074.43,2024-12-20,09/09/2024,Emily Walker,Reach catch wife chance peace physical.
+OPP-10202,Young and Sons,AMER,Brazil,Construction,Inventor,Flex,Prospecting,238983.26,281373.42,2023-01-03,2025-11-08,Jennifer Cummings,
+OPP-10236,Wood Ltd,Emea,Germany,Construction,Inventor,Flex,closed won,179032.96,391206.72,2023-08-12,2025-04-03,Kathleen Smith,As chance enough side than spring power.
+OPP-10149,"Hernandez, Mendoza and Blackwell",EMEA,UAE,Energy,Inventor,EBA,prospecting,1651626.09,3737710.85,2024-04-25,21/09/2024,Erin Villegas,
+OPP-10217,Miller-Duffy,APac,India,Government,BIM 360,EBA,PROPOSAL,,3794332.82,2024-05-19,2025-02-08,Cynthia Gay,Some past seat order resource matter.
+OPP-10557,"Lopez, Perez and Humphrey",apac,Japan,Construction,Civil 3D,Flex,Closed Won,128416.33,168552.54,2024-07-30,2024-02-03,Nathan Gray,
+OPP-10491,"Owen, Hughes and Sullivan",Emea,United Kingdom,Architecture,Forma,Subscription,Qualification ,231241.17,427712.1,2024-05-17,2024-05-06,Mrs. Donna Ward,Most market outside mouth.
+OPP-10530,Hatfield-Gonzalez,EMEA,France,,Fusion 360,EBA,CLOSED LOST,302184.2,876975.92,2023-01-31,2024-05-01,Veronica Newman,
+OPP-10455,"Ortega, Farmer and Wells",EMEA ,Netherlands,Media & Entertainment,Fusion 360,EBA,closed won,1275285.78,2151056.87,2024-02-25,2025-04-18,Joseph Brown,Through just concern this bit financial any.
+OPP-10762,Nolan PLC,AMER,Brazil,Architecture,Inventor,Subscription,Qualification,287779.3,674651.27,2023-12-01,27/01/2025,Matthew Bautista,Quality language suddenly your cover while for.
+OPP-10328,Morse-Wilson,emea,Poland,Manufacturing,Inventor,EBA,closed won,1200824.37,1578162.68,2023-04-26,2025-10-23,Shannon Gray,
+OPP-10790,"Wilson, Hicks and Ryan",apac,Japan,Government,Fusion 360,EBA,Prospecting,1425031.29,3676326.34,2024-07-13,2025-02-04,Erin Villegas,
+OPP-10193,May and Sons,emea,France,,BIM 360,Flex,CLOSED LOST,347079.39,932191.18,2024-01-23,08/01/2024,Matthew Bautista,
+OPP-10235,"Valencia, Johnson and Jones",APAC,Australia,Engineering,Inventor,Subscription,prospecting,65450.53,96601.45,2023-03-22,2025-09-09,Emily Walker,Price exist soldier brother.
+OPP-10691,"Edwards, Evans and Wong",amer,Canada,Construction,Forma,Flex,Proposal,,596801.64,2024-07-29,27/07/2024,Justin Mills,Drug red difficult report.
+OPP-10055,Jenkins-Lopez,APAC,Singapore,Engineering,Civil 3D,Flex,Proposal,138134.6,147996.08,2023-07-26,29/03/2024,Alyssa Henry,
+OPP-10326,Escobar Inc,APac,India,Energy,Civil 3D,Subscription,CLOSED LOST,163965.67,183943.53,2024-08-23,24/06/2025,Erin Villegas,
+OPP-10096,Martin PLC,APac,India,,Revit,EBA,Closed Lost,512179.0,1179454.63,2023-05-03,28/10/2025,Emily Walker,Economy within property government.
+OPP-10141,"Morales, Cook and Thompson",apac,India,Energy,Civil 3D,Subscription,Negotiation,142652.96,372278.21,2023-09-15,20/06/2025,Thomas Rivera,
+OPP-10577,Mcdonald-Nixon,APAC,India,Energy,Revit,Subscription,Closed Won,9999999.0,,2023-01-01,25/09/2024,Justin Mills,
+OPP-10713,"Coleman, Brown and Garcia",EMEA,France,Engineering,AutoCAD,Flex,Closed Won,324067.28,509835.09,2024-10-02,2025-07-14,Mrs. Donna Ward,
+OPP-10389,Williams-Faulkner,Emea,UAE,Manufacturing,Forma,EBA,Qualification ,,1566936.28,2024-02-14,29/11/2025,Robert Burns,
+OPP-10426,Peterson-Lowery,EMEA,Germany,Energy,BIM 360,EBA,Proposal,840604.78,2238861.8,2023-09-23,07/11/2025,Alyssa Henry,
+OPP-10120,"Wood, Lewis and Santiago",EMEA,France,Media & Entertainment,Revit,Flex,Qualification ,242632.18,277046.42,2023-04-12,2024-06-25,Katherine Hughes,If series cover note.
+OPP-10586,"Ayala, Thomas and Smith",apac,Japan,Government,Revit,Subscription,Negotiation,83535.02,164014.13,2024-09-01,2024-12-13,Justin Brown DDS,
+OPP-10062,Martinez-Hoffman,APac,Japan,Construction,Inventor,EBA,CLOSED LOST,1892480.02,4410891.85,2024-04-16,08/04/2025,Katherine Hughes,Should strategy for also significant Mrs teach.
+OPP-10625,Taylor-Henderson,Emea,Poland,Media & Entertainment,Civil 3D,Flex,CLOSED LOST,317887.6,375452.61,2024-06-30,20/07/2022,Brandon Thompson,
+OPP-10305,Alvarez-Moore,EMEA ,France,,Inventor,EBA,Proposal,330118.68,595576.85,2023-07-17,2025-12-14,Frank Cochran,
+OPP-10003,Kelly LLC,APAC,India,Energy,Inventor,Flex,Prospecting,39540.32,102024.9,2024-08-02,2025-03-23,Deborah Rodriguez,
+OPP-10058,Garcia LLC,emea,Germany,Engineering,BIM 360,EBA,PROPOSAL,961912.45,1572829.89,2023-09-09,2025-09-08,Cynthia Gay,
+OPP-10223,Erickson Inc,EMEA ,Poland,Media & Entertainment,BIM 360,Subscription,Closed Lost,204393.04,593530.88,2024-06-18,2024-10-29,Christina Steele,
+OPP-10387,Fischer LLC,APac,Singapore,Energy,Revit,EBA,prospecting,1500295.51,2338541.07,2024-07-24,2024-10-14,Dr. Amanda Reyes,
+OPP-10101,Powell and Sons,AMER,United States,Manufacturing,Fusion 360,EBA,Proposal,1874654.44,2296777.01,2024-10-13,2025-11-29,Christina Steele,
+OPP-10221,Thomas-Ingram,AMER,Canada,Architecture,Revit,Subscription,PROPOSAL,41620.45,124294.52,2024-04-07,08/12/2025,Justin Mills,American through agreement man everything.
+OPP-10471,Greene-Johnson,EMEA,Poland,Construction,AutoCAD,Flex,Qualification,242856.74,459081.98,2024-07-22,21/03/2025,Nicole Mason,
+OPP-10242,May Group,EMEA,United Kingdom,Architecture,Inventor,Subscription,CLOSED LOST,234299.54,595163.1,2024-12-04,2024-09-28,Dr. Amanda Reyes,
+OPP-10052,Ward-Vaughn,emea,UAE,Architecture,AutoCAD,Flex,Prospecting,333201.15,732210.62,2024-02-04,2024-08-21,Donald Moore,
+OPP-10017,"Alexander, Smith and Parsons",EMEA ,Germany,Architecture,Fusion 360,Flex,PROPOSAL,293890.59,313942.18,2024-10-09,19/02/2024,Christina Steele,
+OPP-10155,Harris and Sons,EMEA ,France,Construction,AutoCAD,EBA,Closed Lost,223100.38,497707.98,2023-06-24,2025-02-04,Jennifer Cummings,
+OPP-10558,Rodriguez and Sons,APac,Singapore,Media & Entertainment,AutoCAD,Subscription,Closed Lost,183389.83,242098.53,2024-12-18,10/06/2024,Shannon Gray,
+OPP-10248,Lowe-Reid,Emea,Netherlands,Engineering,Inventor,Subscription,Closed Lost,139707.46,235443.81,2024-11-20,2024-05-07,Catherine Lewis,
+OPP-10249,Lamb-Adams,EMEA,Poland,Media & Entertainment,Inventor,Flex,Closed Lost,78773.54,212175.45,2024-10-15,2024-09-09,Joseph Brown,Him world remain beat.
+OPP-10673,Herrera and Sons,emea,UAE,Manufacturing,BIM 360,Subscription,prospecting,294609.17,778771.24,2024-07-07,27/05/2025,Shannon Gray,
+OPP-10175,Perry LLC,amer,Canada,Energy,AutoCAD,Flex,Proposal,279602.11,454013.54,2024-07-19,04/11/2025,Matthew Bautista,
+OPP-10030,"Perry, Harris and Greer",APAC,Australia,Energy,Revit,Subscription,Qualification,9999999.0,,2023-10-27,2025-02-26,Nathan Gray,Always others soon official campaign just rise look.
+OPP-10357,Maldonado and Sons,EMEA ,France,Architecture,Revit,EBA,Qualification ,1086992.23,3240292.64,2023-03-15,2025-07-09,Debra Dawson,Town whatever son available nation sound personal.
+OPP-10796,"Hancock, Vasquez and Johnson",APAC,India,Engineering,Revit,Subscription,Closed Won,90613.7,200510.74,2024-07-25,2025-08-21,Alyssa Henry,Learn learn two realize sometimes cell.
+OPP-10117,"May, Cox and Freeman",APAC,Australia,Architecture,BIM 360,Subscription,PROPOSAL,36366.79,100210.95,2023-10-13,2025-03-22,Nathan Gray,
+OPP-10362,"Young, Stone and Lee",EMEA,Germany,Energy,Forma,EBA,Proposal,326210.48,558582.92,2024-08-08,2024-02-10,Donald White,
+OPP-10116,Harrison-Alexander,emea,France,Media & Entertainment,Forma,Subscription,Closed Lost,72476.09,135979.25,2023-04-14,2024-06-17,Catherine Lewis,Who sign particular imagine plant.
+OPP-10355,Rice-Hughes,Emea,United Kingdom,,Inventor,Flex,Prospecting,251233.22,624647.95,2023-05-13,2025-04-19,Catherine Lewis,
+OPP-10614,Long and Sons,APac,India,Government,Revit,EBA,Closed Lost,954340.67,2688550.81,2023-11-01,12/06/2024,Debra Dawson,
+OPP-10753,Martinez LLC,APAC,India,Energy,Inventor,Subscription,prospecting,116169.12,273619.9,2023-09-08,02/03/2022,Christopher King,Five think city perhaps side tend.
+OPP-10027,Jones LLC,apac,India,Construction,Inventor,EBA,CLOSED LOST,1574399.33,1836043.59,2024-10-17,04/06/2025,Christopher King,Play head dog.
+OPP-10307,"Hill, Parker and Hobbs",amer,Canada,Energy,Forma,Flex,Closed Lost,203314.63,487499.99,2024-07-13,08/03/2025,Justin Mills,
+OPP-10414,Thomas-Coleman,EMEA ,United Kingdom,Energy,Revit,EBA,prospecting,,3300277.13,2023-03-04,2025-12-08,Jennifer Cummings,
+OPP-10200,"Richmond, Thomas and Mosley",emea,Netherlands,Construction,Forma,EBA,Closed Won,1147207.98,1411427.32,2024-10-07,2022-03-18,Emily Walker,
+OPP-10684,Holmes Ltd,apac,Australia,Construction,BIM 360,Subscription,prospecting,281181.66,502496.35,2023-07-23,2025-02-14,Dustin Hall,
+OPP-10774,Schmidt Inc,AMER,United States,Engineering,Civil 3D,EBA,Qualification,1612073.17,1943614.41,2024-09-12,23/06/2025,Gary Weaver,
+OPP-10657,"Irwin, Williams and Nelson",emea,Poland,Architecture,Civil 3D,Subscription,Proposal,93550.51,238432.42,2024-02-12,17/04/2025,Jennifer Cummings,
+OPP-10501,"Lester, Moore and Hall",emea,United Kingdom,Manufacturing,BIM 360,Flex,Qualification,63486.97,78717.53,2024-06-05,2025-04-28,Jeremy Mendoza,
+OPP-10452,Kennedy-Stein,APAC,South Korea,Media & Entertainment,Inventor,EBA,Closed Lost,1213280.37,3524395.29,2023-11-28,2025-04-03,Debra Dawson,
+OPP-10482,Bennett-Stephens,emea,Poland,,Revit,Subscription,Closed Won,195663.9,403505.45,2023-05-05,06/09/2024,Dustin Hall,Provide direction position will claim at environmental course.
+OPP-10280,Parker-Lopez,apac,Australia,,Inventor,EBA,PROPOSAL,1036724.42,3035516.7,2023-03-03,19/06/2024,Veronica Newman,
+OPP-10784,Franklin-Lam,emea,Germany,Manufacturing,Fusion 360,Flex,Prospecting,0.0,,2023-06-15,2024-10-15,Catherine Lewis,
+OPP-10755,Flores Group,APAC,Australia,Manufacturing,Forma,Subscription,Closed Lost,,99264.32,2024-02-05,2025-05-04,Alyssa Henry,
+OPP-10207,Harrison PLC,EMEA,United Kingdom,Manufacturing,Revit,Flex,Qualification,365361.99,966044.08,2023-04-17,2024-11-13,Mrs. Megan Smith DDS,Bar while put including for clear always work.
+OPP-10739,"Gutierrez, Walker and Myers",EMEA,Poland,Media & Entertainment,AutoCAD,EBA,prospecting,1397149.15,4102219.07,2024-01-30,2024-08-15,Hannah Rivera,
+OPP-10023,Lawrence-Kelly,EMEA ,UAE,Energy,Civil 3D,Subscription,Proposal,221370.84,653688.21,2024-02-25,2024-05-23,Christina Steele,
+OPP-10590,"Hubbard, Taylor and Rowe",AMER,Canada,Media & Entertainment,Inventor,Flex,Qualification,63898.31,100966.48,2023-02-11,15/12/2025,Christina Steele,
+OPP-10525,Phelps-Rice,APAC,Japan,Energy,Forma,EBA,Proposal,1919326.44,3736179.98,2024-07-12,28/03/2025,Gary Weaver,
+OPP-10154,Hall and Sons,EMEA,United Kingdom,Government,AutoCAD,Flex,Qualification,9999999.0,,2024-11-26,03/12/2025,Robert Adams,
+OPP-10711,Molina-Johnson,APac,Australia,Engineering,Civil 3D,Flex,Negotiation,140634.51,264823.63,2023-09-13,2025-02-18,Justin Brown DDS,Finish outside entire edge.
+OPP-10600,Brooks PLC,AMER,United States,Architecture,Inventor,Subscription,Proposal,176371.03,195559.92,2023-12-03,2024-01-02,Julie Molina,Measure director live return yard you line.
+OPP-10723,Evans Ltd,amer,Mexico,Construction,Civil 3D,EBA,prospecting,1264110.21,3141865.03,2023-05-28,04/05/2024,Debra Dawson,
+OPP-10499,Rivera and Sons,apac,Japan,,AutoCAD,EBA,Prospecting,9999999.0,,2024-02-05,2025-02-28,Matthew Bautista,Contain fish article.
+OPP-10747,"Miller, Jennings and Nelson",EMEA ,France,Engineering,Revit,EBA,prospecting,1144967.65,2043332.14,2023-08-20,17/02/2024,Donald Moore,
+OPP-10677,Carroll PLC,apac,Japan,Media & Entertainment,Inventor,Subscription,prospecting,24116.58,54367.82,2024-07-25,2025-08-17,Kathleen Smith,
+OPP-10779,"Cruz, Conner and Simmons",APAC,India,Construction,Civil 3D,Subscription,CLOSED LOST,98413.46,288997.19,2023-06-18,2024-11-23,Donald White,Program down city my film employee.
+OPP-10262,Medina LLC,amer,Canada,Energy,Forma,EBA,closed won,345843.22,779469.72,2023-03-06,2024-05-09,Donald Moore,
+OPP-10082,Garcia-Riley,APAC,Japan,Construction,Fusion 360,Subscription,Proposal,148527.76,168402.58,2024-03-21,12/06/2024,Erin Villegas,Mind tax understand data call cause very bad.
+OPP-10422,Martinez Group,EMEA ,Netherlands,Energy,Inventor,Flex,Qualification,175019.31,222726.83,2023-07-25,2024-05-16,Katherine Hughes,
+OPP-10451,"Chapman, Christian and Richardson",Emea,Poland,Government,Inventor,Subscription,closed won,164600.25,214202.63,2024-11-07,24/05/2025,Joseph Brown,
+OPP-10038,Russell Group,APac,Singapore,Manufacturing,AutoCAD,Subscription,Qualification ,216681.54,405707.69,2023-10-03,11/08/2025,Kathleen Smith,
+OPP-10419,Gonzalez LLC,emea,Germany,Manufacturing,Fusion 360,Flex,Proposal,209222.96,499267.26,2023-11-05,2024-08-25,Joseph Brown,Particular true article interview argue.
+OPP-10333,Young-Oliver,Emea,United Kingdom,Manufacturing,BIM 360,EBA,Negotiation,1809240.55,2891495.02,2023-10-03,04/04/2024,Gary Weaver,For hard evening official.
+OPP-10010,Miller-Allen,amer,Brazil,Construction,Inventor,Flex,closed won,233907.34,625250.52,2024-03-06,13/02/2025,Veronica Newman,Choose west paper.
+OPP-10420,Leblanc Inc,APac,Australia,Energy,AutoCAD,Subscription,CLOSED LOST,213814.69,490334.02,2024-01-26,19/08/2025,Deborah Rodriguez,
+OPP-10319,Hansen-Williams,EMEA,United Kingdom,Construction,BIM 360,Subscription,Qualification ,264201.74,414906.08,2023-02-18,02/02/2024,Matthew Moore,
+OPP-10032,Hall Group,amer,Brazil,Manufacturing,Fusion 360,Subscription,closed won,251689.52,501965.9,2023-11-10,13/04/2024,Dr. Amanda Reyes,Rate appear nice start when.
+OPP-10509,Duncan-Mack,EMEA,Germany,Media & Entertainment,Forma,Flex,Qualification ,141817.6,258169.99,2024-04-04,10/02/2024,Justin Brown DDS,
+OPP-10562,Leonard LLC,emea,Poland,Engineering,AutoCAD,Flex,Proposal,,611407.58,2023-06-10,2024-12-22,Nathan Gray,
+OPP-10281,Brown and Sons,AMER,Mexico,Government,Revit,EBA,Qualification,1132437.32,1149599.35,2023-11-24,24/09/2024,Mrs. Megan Smith DDS,
+OPP-10480,Saunders-Washington,AMER,Canada,Engineering,Forma,EBA,Closed Won,236939.04,414012.5,2024-07-27,2025-03-11,Erin Villegas,Attorney major travel stand what operation.
+OPP-10742,Ruiz Ltd,APac,India,Manufacturing,AutoCAD,Flex,prospecting,200368.58,233627.5,2023-09-04,27/08/2024,Erin Villegas,
+OPP-10521,Williamson-Perkins,amer,United States,Construction,AutoCAD,Subscription,Qualification,271703.46,660418.8,2023-12-26,2024-04-01,Donald White,
+OPP-10749,King-Hayes,APAC,India,Architecture,Civil 3D,EBA,Closed Won,1693293.71,3679085.06,2023-05-10,2024-12-29,Emily Walker,
+OPP-10473,Woods LLC,apac,India,Media & Entertainment,BIM 360,Flex,Qualification,204770.34,568712.27,2023-08-18,02/08/2024,Veronica Newman,
+OPP-10442,Morales Inc,EMEA,United Kingdom,,Civil 3D,EBA,Negotiation,481234.5,724677.22,2023-01-18,2024-11-08,Thomas Rivera,Than responsibility security leg born occur city.
+OPP-10089,"Jones, Snyder and Mcpherson",emea,Germany,Engineering,Fusion 360,EBA,Prospecting,1560391.21,3927384.73,2024-04-21,31/05/2024,Christopher King,Contain travel wide east north.
+OPP-10213,"May, Espinoza and Duncan",amer,Mexico,Architecture,Civil 3D,Flex,closed won,266992.3,445657.4,2023-07-09,2024-08-01,Matthew Bautista,
+OPP-10321,Thomas-Hernandez,APAC,Japan,Media & Entertainment,Revit,Subscription,Proposal,205162.87,274801.69,2023-06-23,01/02/2024,Frank Cochran,Between southern question article law.
+OPP-10693,Frey-Harding,EMEA,United Kingdom,,Civil 3D,EBA,Negotiation,1000407.43,2494226.79,2024-02-28,21/03/2025,Christina Steele,
+OPP-10133,Burns PLC,APAC,Australia,Manufacturing,Civil 3D,Flex,Qualification ,250844.72,437955.34,2023-01-22,26/05/2025,Frank Cochran,
+OPP-10346,"Wood, Ellis and Serrano",Emea,UAE,Manufacturing,Fusion 360,EBA,CLOSED LOST,1199850.9,2628100.46,2024-08-30,22/07/2025,Justin Brown DDS,Research section watch itself reach week fund.
+OPP-10043,Casey PLC,apac,Australia,,Revit,Flex,Negotiation,182088.34,539713.53,2024-04-07,06/04/2024,Robert Burns,
+OPP-10007,Lambert Group,EMEA,Germany,Construction,Fusion 360,EBA,prospecting,9999999.0,,2024-07-07,2024-12-22,Thomas Rivera,
+OPP-10498,Shepard-Robinson,amer,United States,Architecture,Civil 3D,Subscription,Prospecting,9999999.0,,2024-06-22,17/03/2025,Jonathan Reeves,
+OPP-10611,Alvarado Group,APac,Japan,Energy,Revit,Flex,closed won,433929.04,695247.94,2024-12-28,22/05/2025,Christina Steele,
+OPP-10643,Banks PLC,APac,India,Architecture,Inventor,Subscription,Prospecting,143268.69,213287.15,2024-12-11,2025-05-04,Donald White,Conference value fly both offer.
+OPP-10187,"Berger, Barnett and Campbell",APAC,Singapore,Construction,BIM 360,Flex,Closed Lost,,346093.85,2024-01-25,2025-04-28,Alyssa Henry,Trouble meeting analysis pretty.
+OPP-10122,Harmon-Knox,Emea,Netherlands,Architecture,Inventor,Subscription,Qualification ,42561.27,45192.75,2023-09-05,2025-09-05,Frank Cochran,
+OPP-10040,Henry Inc,EMEA,Netherlands,Manufacturing,Revit,Subscription,Closed Won,210675.76,438042.35,2023-08-27,06/08/2025,Justin Mills,
+OPP-10304,"Parker, Rodriguez and Wright",apac,India,Energy,AutoCAD,Flex,Qualification,31457.52,88710.82,2024-07-23,07/06/2025,Catherine Lewis,Style determine stand record authority detail number when.
+OPP-10437,Anderson-Brooks,EMEA,UAE,Media & Entertainment,Inventor,EBA,Closed Lost,1378548.56,3160480.09,2024-03-17,2025-01-21,Mrs. Donna Ward,
+OPP-10596,"Thomas, Hart and Hall",emea,Germany,Engineering,Inventor,EBA,Closed Won,,4520596.74,2024-09-17,25/09/2024,Justin Mills,
+OPP-10172,Gray PLC,amer,Canada,Engineering,Inventor,Flex,closed won,365692.8,967012.13,2024-10-01,2024-02-03,Mrs. Megan Smith DDS,
+OPP-10284,"Hoffman, Stone and Guzman",AMER,Mexico,Media & Entertainment,Civil 3D,EBA,prospecting,660914.48,1621570.95,2023-06-15,09/03/2025,Catherine Lewis,
+OPP-10729,Hoffman-Erickson,EMEA,Netherlands,Architecture,AutoCAD,Flex,closed won,,405053.19,2023-06-29,02/11/2025,Mrs. Megan Smith DDS,
+OPP-10240,Alexander Ltd,Emea,Netherlands,Manufacturing,AutoCAD,Flex,Qualification ,230325.2,688427.14,2024-12-20,25/08/2025,Matthew Moore,
+OPP-10598,Smith-Fuentes,Emea,Poland,Construction,Inventor,EBA,Prospecting,1993033.18,2971045.07,2023-08-26,28/07/2025,Robert Burns,
+OPP-10477,Flores and Sons,apac,South Korea,Energy,Civil 3D,Subscription,CLOSED LOST,252384.53,293750.0,2024-06-25,07/07/2025,Donald White,Magazine small recent property.
+OPP-10637,"Sullivan, Taylor and Watkins",APac,Australia,Energy,BIM 360,Subscription,Closed Lost,190628.89,493424.57,2023-10-17,04/12/2024,Catherine Lewis,
+OPP-10578,Wilson-Moran,emea,Germany,Energy,AutoCAD,Flex,Proposal,19193.9,42963.12,2023-02-21,2024-03-27,Katherine Hughes,
+OPP-10245,Walker LLC,amer,United States,Media & Entertainment,Fusion 360,Flex,Closed Won,258692.1,460728.66,2023-04-04,31/12/2024,Donald Mccarty,
+OPP-10056,Anderson-Payne,emea,United Kingdom,Manufacturing,Forma,Flex,Qualification,349872.23,378598.07,2024-03-22,2025-09-22,Emily Walker,Firm agree fill she body box.
+OPP-10417,Frazier and Sons,Emea,Poland,,Fusion 360,Subscription,CLOSED LOST,289333.5,609076.23,2024-08-10,2025-09-16,Donald Mccarty,
+OPP-10071,Shelton-Foster,EMEA,United Kingdom,Media & Entertainment,BIM 360,EBA,Proposal,,5468635.34,2023-10-07,2025-11-03,Donald Moore,
+OPP-10692,Wagner-Strickland,EMEA,Poland,Government,Inventor,Flex,CLOSED LOST,,314516.38,2023-06-05,2025-03-10,Justin Mills,
+OPP-10145,"May, Miller and Jacobson",Emea,Germany,,Fusion 360,Subscription,Qualification,0.0,,2024-12-29,2025-07-29,Jennifer Cummings,
+OPP-10090,Reid LLC,apac,Singapore,Manufacturing,Revit,Subscription,Closed Lost,53055.82,86509.5,2023-01-18,06/05/2024,Brandon Thompson,
+OPP-10166,Brown Inc,APAC,South Korea,Architecture,BIM 360,Flex,Qualification,108125.97,270187.39,2023-12-03,2025-10-24,Jeremy Mendoza,
+OPP-10392,Ruiz-Webb,APac,Australia,Government,Inventor,EBA,Prospecting,,1182687.98,2024-12-27,06/06/2024,Shannon Gray,Serve agent human major again buy seven.
+OPP-10430,Long PLC,AMER,United States,Construction,Inventor,EBA,Closed Won,216699.28,293932.12,2023-12-27,2024-04-16,Erin Villegas,Medical goal because detail fish enter.
+OPP-10170,Riley Group,APAC,India,Media & Entertainment,AutoCAD,Subscription,Negotiation,61092.39,108411.57,2023-08-21,2025-11-03,Catherine Lewis,
+OPP-10310,"Harrison, Kent and Smith",APac,India,Architecture,Revit,Flex,PROPOSAL,488173.47,495670.18,2024-06-11,2025-08-16,Mary Christian,
+OPP-10492,"Duarte, Wood and Russell",amer,United States,Architecture,Forma,Flex,Proposal,385176.64,543520.0,2023-11-09,2024-08-01,Alyssa Henry,
+OPP-10359,Hayes-Thompson,AMER,Mexico,Manufacturing,Civil 3D,Flex,closed won,277900.31,663841.7,2023-09-27,15/02/2024,Katherine Hughes,State international memory.
+OPP-10093,Hayden-Cobb,APAC,Japan,Architecture,Civil 3D,EBA,Qualification ,363210.92,869735.98,2023-09-03,2024-02-27,Alyssa Henry,
+OPP-10503,Parrish-Jackson,EMEA ,Germany,Architecture,Revit,Flex,Qualification,204682.59,504570.58,2023-07-05,07/08/2024,Mary Christian,
+OPP-10720,Leach-Freeman,EMEA ,UAE,Energy,Civil 3D,EBA,prospecting,578504.04,1371807.95,2024-05-02,2025-11-12,Dustin Hall,Partner particular almost hand consumer prepare me.
+OPP-10616,Mitchell and Sons,APac,Australia,Manufacturing,BIM 360,Flex,Negotiation,440879.91,801555.08,2024-11-05,08/01/2025,Jennifer Cummings,
+OPP-10376,"Mclaughlin, Scott and Byrd",Emea,Netherlands,Architecture,Civil 3D,Flex,Negotiation,454631.48,1185844.26,2024-01-28,2024-08-27,Catherine Lewis,
+OPP-10395,Fitzgerald and Sons,AMER,Mexico,,AutoCAD,Subscription,Qualification,151861.09,272264.38,2023-07-24,2025-01-25,Nathan Gray,
+OPP-10243,Frazier LLC,EMEA,France,Media & Entertainment,Civil 3D,Flex,Closed Won,477896.69,1388850.85,2024-03-16,2025-09-30,Katherine Hughes,Large stage administration treatment Democrat method consumer.
+OPP-10087,Smith Ltd,EMEA ,UAE,Construction,Revit,Flex,Prospecting,119433.33,235211.45,2023-12-31,27/09/2025,Erin Villegas,
+OPP-10214,Rice-Smith,EMEA,Poland,Manufacturing,Civil 3D,EBA,Qualification ,767626.12,2122150.42,2023-10-18,02/09/2025,Thomas Rivera,
+OPP-10344,"King, Fisher and Hart",Emea,United Kingdom,Government,Civil 3D,EBA,Closed Won,352033.51,1018787.99,2023-07-10,13/03/2025,Jennifer Logan,
+OPP-10173,"Bennett, Berry and Peterson",amer,United States,Construction,Fusion 360,Subscription,Qualification,245629.54,397126.54,2023-12-15,25/02/2025,Nicole Mason,
+OPP-10650,Smith LLC,AMER,Mexico,Energy,Inventor,Flex,Closed Won,,,2023-08-01,2025-07-25,Donald Moore,
+OPP-10291,Berry-Rodriguez,APAC,South Korea,Media & Entertainment,Civil 3D,Flex,CLOSED LOST,41908.14,50462.05,2024-12-02,03/05/2024,Brandon Thompson,Pass two up reality building art eight off.
+OPP-10635,Rowland-Perkins,Emea,Germany,Engineering,Forma,EBA,Closed Lost,495344.93,954498.5,2023-02-20,2025-09-30,Deborah Rodriguez,Take address world participant general evidence man training.
+OPP-10118,Payne-Brown,APac,Japan,Architecture,Revit,EBA,Prospecting,1205278.15,2787236.33,2024-11-06,13/07/2025,Justin Mills,
+OPP-10119,"Nunez, Walton and Lambert",APac,Australia,,Revit,EBA,Qualification,1531287.97,2345588.69,2024-01-16,2024-03-02,Jennifer Cummings,
+OPP-10163,"Jackson, Christian and Roberts",APac,Singapore,Engineering,Civil 3D,Flex,Prospecting,18778.3,50130.63,2024-03-03,19/04/2025,Hannah Rivera,
+OPP-10775,Rodriguez and Sons,APac,India,Engineering,Inventor,Subscription,Negotiation,172781.32,228013.07,2024-03-25,30/12/2024,Frank Cochran,
+OPP-10384,Estrada Group,EMEA ,Poland,Engineering,AutoCAD,Flex,Qualification,302012.83,859309.83,2024-08-12,25/01/2025,Donald White,
+OPP-10526,Peterson Group,AMER,Canada,Construction,Fusion 360,EBA,Prospecting,1875401.34,3029146.48,2023-11-05,29/05/2024,Nicole Mason,Democratic work choose understand head stay child.
+OPP-10394,Jones Group,EMEA,United Kingdom,Media & Entertainment,Fusion 360,Flex,Closed Won,415869.7,444779.65,2023-08-19,12/05/2024,Joseph Brown,
+OPP-10401,Zuniga and Sons,apac,Singapore,Government,Inventor,EBA,PROPOSAL,1612895.19,2800913.26,2023-11-23,14/09/2024,Veronica Newman,Benefit war military.
+OPP-10404,Rowe-Oconnell,APAC,South Korea,Manufacturing,Inventor,Flex,closed won,232412.58,603291.87,2023-08-09,16/03/2024,Dr. Amanda Reyes,
+OPP-10618,Taylor-Mcdonald,Emea,Netherlands,Energy,AutoCAD,EBA,Prospecting,1067355.95,2483184.2,2024-05-23,2024-12-24,Robert Adams,
+OPP-10642,Hudson Inc,APac,India,Engineering,Inventor,Subscription,Proposal,124361.64,301821.49,2023-12-05,01/02/2025,Deborah Rodriguez,
+OPP-10162,Whitaker Group,AMER,United States,Manufacturing,Inventor,Subscription,Qualification ,103092.79,253870.34,2024-06-25,27/08/2025,Robert Adams,
+OPP-10320,Hill Inc,EMEA,Germany,Manufacturing,Forma,EBA,prospecting,508065.82,1138870.21,2024-07-04,21/09/2025,Gary Weaver,
+OPP-10114,Cook-Vaughn,AMER,Mexico,Engineering,AutoCAD,Subscription,Qualification,210653.66,334260.79,2023-09-17,2025-08-22,Kathleen Smith,
+OPP-10158,"Hooper, Cruz and Perez",EMEA,United Kingdom,Architecture,Inventor,EBA,Qualification,672579.23,1571507.39,2024-08-16,01/09/2024,Mrs. Donna Ward,Yeah tax relationship effort way everything.
+OPP-10150,Alvarez-Martin,APac,Singapore,Manufacturing,Forma,Subscription,Qualification ,11556.43,25232.14,2023-12-03,05/06/2025,Jeremy Mendoza,
+OPP-10453,Price-Sanchez,EMEA ,UAE,,Inventor,Subscription,CLOSED LOST,0.0,,2023-05-20,16/08/2025,Alyssa Henry,
+OPP-10607,Moore-Stone,APAC,Singapore,Media & Entertainment,Civil 3D,EBA,closed won,1611079.77,1994054.18,2023-09-06,2025-02-13,Shannon Gray,
+OPP-10610,"Adams, Patterson and Martin",APAC,India,Media & Entertainment,Inventor,EBA,Closed Won,1203012.51,1574310.13,2023-07-13,2024-12-19,Julie Molina,Else blood hundred course.
+OPP-10368,"Caldwell, Lane and Chandler",apac,India,Media & Entertainment,Revit,Subscription,prospecting,157445.39,178596.21,2023-08-31,05/05/2025,Brandon Thompson,
+OPP-10031,Jones Group,Emea,France,Construction,Revit,Flex,Closed Won,169011.08,423649.65,2023-08-03,2025-07-25,Dr. Amanda Reyes,Alone back story difference more only reason.
+OPP-10377,Roach-Wilson,EMEA ,Poland,Government,Fusion 360,Flex,Proposal,226077.88,414550.99,2023-07-21,02/12/2025,Donald White,
+OPP-10777,"Powell, Ibarra and Estrada",emea,France,Manufacturing,Revit,EBA,Closed Lost,1575357.89,3782116.33,2023-06-13,01/02/2025,Debra Dawson,
+OPP-10020,"Jones, Rodriguez and Lee",apac,Australia,Engineering,AutoCAD,Subscription,Proposal,107549.15,310010.36,2024-07-20,25/03/2024,Emily Walker,
+OPP-10113,Underwood-Lee,amer,Mexico,Engineering,Inventor,Subscription,PROPOSAL,295280.07,351355.98,2023-11-14,19/07/2025,Katherine Hughes,
+OPP-10712,"Solomon, Yoder and Cox",APAC,India,Engineering,BIM 360,Flex,CLOSED LOST,112105.38,157518.82,2024-10-11,2025-08-13,Brandon Thompson,
+OPP-10000,Franklin-Curry,APAC,India,Architecture,Revit,Flex,Closed Lost,39065.24,107886.45,2023-10-10,04/07/2025,Frank Cochran,
+OPP-10538,Harding PLC,EMEA,United Kingdom,Manufacturing,Inventor,Subscription,Prospecting,118413.27,279985.87,2024-04-11,22/09/2024,Nathan Gray,
+OPP-10700,Davis-Spence,apac,South Korea,Manufacturing,Civil 3D,Flex,Closed Lost,114691.57,214575.71,2023-10-24,2024-01-15,Christopher King,
+OPP-10785,"Carter, Brown and Edwards",apac,South Korea,Construction,Revit,Subscription,Qualification,31031.83,60713.2,2023-09-07,30/09/2025,Christina Steele,
+OPP-10459,"Medina, Shaw and Shaffer",amer,Brazil,Government,Inventor,EBA,Prospecting,1926242.98,4541407.37,2023-02-18,2024-01-01,Christopher King,
+OPP-10621,"Peterson, Moore and Davis",apac,India,Engineering,Fusion 360,EBA,Closed Lost,1021751.46,2233731.59,2023-04-02,09/05/2025,Gary Weaver,
+OPP-10549,Coleman Ltd,emea,Poland,Manufacturing,Inventor,Subscription,closed won,184177.53,270282.72,2023-09-27,2025-06-13,Robert Burns,
+OPP-10258,"Suarez, Johnson and Glenn",APAC,Singapore,Engineering,Forma,Flex,Closed Lost,255995.27,259199.08,2023-03-26,2025-12-10,Robert Adams,
+OPP-10798,"Smith, Mclean and Carlson",emea,Netherlands,Manufacturing,Civil 3D,Subscription,CLOSED LOST,12249.56,23123.57,2024-04-15,2025-02-15,Emily Walker,
+OPP-10314,Rich PLC,Emea,Poland,Energy,Civil 3D,Flex,Qualification ,14486.49,26892.2,2023-07-11,2024-05-01,Alyssa Henry,
+OPP-10698,"Kim, Thompson and Williams",APac,Singapore,Manufacturing,AutoCAD,EBA,PROPOSAL,1497923.62,3096043.62,2023-10-23,30/11/2025,Dustin Hall,
+OPP-10135,French PLC,AMER,Mexico,Construction,Civil 3D,Flex,PROPOSAL,250569.16,380794.51,2023-04-02,23/03/2025,Kathleen Smith,
+OPP-10552,Thompson-Rogers,APac,Singapore,Government,Revit,EBA,Closed Won,894516.22,1079300.81,2023-07-31,03/07/2024,Frank Cochran,Wrong each reason woman young just form.
+OPP-10004,Pennington-Bates,Emea,UAE,Government,AutoCAD,Subscription,prospecting,292397.12,732108.21,2024-06-09,2024-03-30,Veronica Newman,Sea program suggest those present claim mission personal.
+OPP-10500,"Payne, Chapman and Clark",AMER,United States,Architecture,Fusion 360,Flex,Closed Won,,47516.52,2023-09-07,19/05/2024,Donald Moore,
+OPP-10324,"Harper, Lewis and Miller",APAC,India,Construction,Inventor,Subscription,Proposal,24753.46,45917.54,2023-06-26,12/10/2024,Dustin Hall,
+OPP-10330,Melendez Inc,APac,India,Engineering,Inventor,Flex,Negotiation,455919.97,1182528.37,2023-05-05,12/01/2024,Mrs. Megan Smith DDS,
+OPP-10447,"Lewis, Berry and Dillon",EMEA,Poland,Construction,Revit,Subscription,Closed Lost,203586.61,563231.65,2024-05-10,2025-02-21,Dustin Hall,My Congress middle close.
+OPP-10465,Hudson and Sons,Emea,United Kingdom,Architecture,Inventor,EBA,Qualification,,2244429.28,2023-06-20,2025-12-19,Katherine Hughes,
+OPP-10339,"Hobbs, Erickson and Mack",amer,United States,Manufacturing,Civil 3D,Subscription,CLOSED LOST,87697.61,190765.96,2024-03-22,2024-09-29,Jennifer Logan,
+OPP-10297,"Williams, Lynn and Williams",amer,Canada,Manufacturing,Forma,EBA,Negotiation,704177.99,1535713.53,2024-10-25,2025-11-15,Kathleen Smith,
+OPP-10080,Smith and Sons,EMEA,United Kingdom,Manufacturing,BIM 360,Flex,Negotiation,236203.71,247768.16,2024-04-20,08/04/2025,Katherine Hughes,Center human official build.
+OPP-10656,Nelson-Greene,amer,Brazil,Government,Civil 3D,Flex,closed won,121709.43,345461.57,2024-12-17,2024-03-15,Kathleen Smith,
+OPP-10026,Garcia-Martinez,AMER,Mexico,Government,Forma,Flex,prospecting,218696.18,480714.75,2023-10-26,18/08/2024,Catherine Lewis,
+OPP-10060,Burns Group,amer,Canada,Government,Forma,Subscription,Prospecting,26807.58,53109.16,2023-10-17,03/12/2025,Jeremy Mendoza,
+OPP-10216,"Rogers, Morris and Chen",APAC,Japan,Architecture,Revit,Subscription,Qualification,183937.66,527451.5,2023-09-03,2025-04-07,Mrs. Megan Smith DDS,
+OPP-10613,"Johnson, Murray and Palmer",apac,India,Architecture,Revit,Subscription,prospecting,94963.1,249093.41,2023-10-19,2025-07-31,Deborah Rodriguez,
+OPP-10343,"Villegas, George and Nichols",emea,United Kingdom,Media & Entertainment,Revit,Flex,prospecting,467640.59,1171961.67,2024-05-08,2024-03-08,Robert Burns,
+OPP-10511,"Taylor, Andrews and Escobar",APac,South Korea,,Inventor,EBA,Proposal,1989018.27,5044619.53,2024-08-30,2024-04-23,Shannon Gray,Style that chance need save.
+OPP-10293,Flores Inc,amer,Mexico,,Forma,EBA,prospecting,1835481.05,5154311.47,2024-11-07,28/08/2022,Kathleen Smith,
+OPP-10364,Payne-Owens,apac,Singapore,Manufacturing,Forma,Subscription,closed won,165193.96,295776.92,2023-03-31,2024-06-24,Hannah Rivera,Former response sure but might.
+OPP-10768,Malone-Riggs,APac,Singapore,Manufacturing,Civil 3D,Flex,Qualification,,345799.08,2023-08-06,2025-03-09,Kathleen Smith,Because ok white certain doctor.
+OPP-10147,"Meyers, White and James",APac,Australia,Manufacturing,Revit,Flex,PROPOSAL,225532.12,245385.0,2023-05-26,2024-07-20,Donald White,Art rest number choose strong.
+OPP-10014,Gould Inc,APAC,South Korea,Manufacturing,BIM 360,Subscription,Qualification,9406.85,19504.67,2024-03-05,2024-03-08,Katherine Hughes,Tough woman million simple.
+OPP-10174,"Rangel, Holmes and Prince",AMER,Brazil,Construction,Fusion 360,EBA,prospecting,1873109.09,2557239.55,2023-04-27,07/04/2024,Thomas Rivera,
+OPP-10086,Nichols Inc,apac,Australia,Government,Fusion 360,Subscription,prospecting,48764.86,92603.0,2024-06-25,2025-05-17,Donald Mccarty,Without agency son.
+OPP-10370,Cook and Sons,emea,Poland,Construction,Fusion 360,Subscription,Qualification,252411.38,393136.34,2024-11-09,2024-06-08,Thomas Rivera,Issue popular support government a those.
+OPP-10165,Bowman LLC,amer,Brazil,Construction,Civil 3D,Subscription,Negotiation,0.0,,2024-05-23,2025-08-17,Christina Steele,Experience must boy against walk commercial interest establish.
+OPP-10726,Martin-Ramirez,amer,Brazil,,AutoCAD,EBA,Qualification,999846.65,1426034.81,2023-05-20,11/05/2025,Veronica Newman,
+OPP-10335,Stevenson-Robbins,APac,Japan,Media & Entertainment,Inventor,Subscription,Closed Lost,124550.64,282799.47,2023-01-16,24/06/2025,Cynthia Gay,
+OPP-10059,Salazar-Flowers,APAC,South Korea,Architecture,Civil 3D,EBA,Closed Lost,1489546.82,3165917.54,2023-02-09,26/05/2024,Brandon Thompson,Mind as particularly my policy look.
+OPP-10714,Foster Inc,APAC,Japan,Media & Entertainment,BIM 360,Subscription,Prospecting,34874.09,87807.17,2024-08-02,26/04/2025,Frank Cochran,
+OPP-10545,"Garcia, Anderson and Roach",APAC,India,Construction,Inventor,EBA,Prospecting,966854.45,1476530.69,2023-07-28,03/03/2024,Alyssa Henry,
+OPP-10164,Bennett-Wallace,EMEA ,UAE,Energy,Forma,EBA,Qualification ,1222192.89,2192565.6,2023-01-05,27/06/2025,Veronica Newman,
+OPP-10354,Hernandez and Sons,Emea,Poland,Engineering,Fusion 360,EBA,Prospecting,922709.41,1563114.99,2023-11-24,2024-04-23,Justin Mills,
+OPP-10523,Johnson Group,EMEA ,Netherlands,Construction,Forma,EBA,prospecting,765858.14,993931.86,2024-05-26,02/10/2025,Christina Steele,
+OPP-10424,Riley-Salas,Emea,United Kingdom,Engineering,Inventor,Flex,Qualification,308739.53,890134.43,2023-09-13,28/02/2024,Dr. Amanda Reyes,Traditional high rest federal tough beyond action.
+OPP-10292,Beard LLC,EMEA,Germany,Government,Inventor,Flex,Prospecting,289798.77,677973.5,2023-06-28,2024-11-26,Julie Molina,
+OPP-10041,"Jones, Brewer and Bryant",AMER,United States,Energy,BIM 360,Flex,Closed Lost,488903.39,1306095.05,2023-06-15,18/07/2024,Mary Christian,
+OPP-10361,"Warren, Tucker and Williams",EMEA,UAE,Media & Entertainment,Fusion 360,EBA,prospecting,1972931.17,4269868.75,2023-05-14,04/02/2025,Dr. Amanda Reyes,
+OPP-10329,Williams-Fuller,EMEA,Poland,Engineering,Forma,Subscription,Prospecting,169328.52,470382.32,2023-05-30,2024-05-04,Mary Christian,
+OPP-10706,Simmons-Watkins,EMEA ,United Kingdom,Architecture,AutoCAD,Flex,Qualification ,297682.04,737751.47,2023-02-18,2025-01-16,Robert Adams,However guess church officer.
+OPP-10429,Alvarez Ltd,emea,Netherlands,,Civil 3D,EBA,Qualification,306392.21,908465.29,2024-06-27,2025-04-13,Mrs. Donna Ward,
+OPP-10079,Lee-Estrada,Emea,UAE,Manufacturing,BIM 360,Subscription,CLOSED LOST,172914.33,518430.85,2024-01-02,06/05/2025,Donald Mccarty,
+OPP-10580,Andrews Group,APAC,Australia,Engineering,Inventor,Flex,Qualification,117010.43,138103.13,2023-01-16,2025-08-09,Veronica Newman,
+OPP-10028,Rocha Group,apac,Japan,Media & Entertainment,Civil 3D,Flex,Qualification ,336157.96,784967.18,2024-07-28,13/09/2025,Robert Adams,
+OPP-10425,"Haynes, Rojas and White",APac,Singapore,,Forma,Flex,Qualification,116224.56,251400.16,2023-05-11,2025-07-07,Mary Christian,
+OPP-10702,"Hoffman, Rice and Smith",APAC,Japan,Construction,BIM 360,EBA,Prospecting,1164731.18,1464938.12,2023-02-16,2025-09-21,Matthew Moore,Trouble fund plan hospital growth career safe.
+OPP-10553,"Hernandez, Mathews and Gutierrez",Emea,UAE,Construction,Inventor,Flex,Closed Lost,250991.7,385626.09,2023-02-28,2024-10-28,Mrs. Donna Ward,
+OPP-10570,"Hill, Johnson and Tucker",emea,UAE,Government,Forma,EBA,prospecting,344374.81,665427.02,2024-06-13,2025-03-28,Katherine Hughes,
+OPP-10322,Fox and Sons,Emea,UAE,Architecture,AutoCAD,Subscription,closed won,254804.49,761523.97,2023-02-12,2024-09-18,Hannah Rivera,
+OPP-10237,Mann-Simpson,Emea,United Kingdom,Engineering,Revit,Flex,Proposal,486808.5,1296858.25,2023-10-10,18/10/2024,Joseph Brown,
+OPP-10378,Richardson-Spencer,APAC,Japan,Energy,Inventor,EBA,Qualification,862879.63,1100077.36,2023-04-01,2024-10-29,Debra Dawson,Event bad similar protect official interesting poor.
+OPP-10254,Graves Ltd,Emea,Germany,Energy,AutoCAD,EBA,Qualification,1789282.94,1846743.12,2024-06-21,09/04/2024,Donald Moore,
+OPP-10135,French PLC,AMER,Mexico,Construction,Civil 3D,Flex,PROPOSAL,250569.16,380794.51,2023-04-02,23/03/2025,Kathleen Smith,
+OPP-10458,Green-Hahn,Emea,Poland,Media & Entertainment,AutoCAD,EBA,Prospecting,1148304.35,2514796.61,2023-12-04,2025-05-09,Alyssa Henry,
+OPP-10111,Morris-Mullen,APAC,Singapore,,Revit,Flex,Negotiation,460582.29,1253866.08,2023-02-02,26/05/2025,Brandon Thompson,Any it edge action structure total.
+OPP-10383,"Ward, Gibson and Mason",APAC,Australia,,Inventor,EBA,Proposal,477603.91,1278805.28,2023-01-23,02/07/2025,Donald Moore,Miss free too Congress meeting white lay world.
+OPP-10313,Armstrong-Prince,APac,South Korea,Manufacturing,AutoCAD,Flex,Qualification,393292.97,620766.11,2024-01-26,13/05/2024,Christopher King,
+OPP-10084,Carson Group,Emea,UAE,Construction,Fusion 360,Subscription,Qualification,291277.06,821486.43,2024-04-02,2025-01-13,Erin Villegas,
+OPP-10136,"Porter, Wright and Clayton",APac,South Korea,Architecture,Civil 3D,EBA,Prospecting,824457.9,1690557.3,2024-12-25,2024-06-11,Jeremy Mendoza,
+OPP-10111,Morris-Mullen,APAC,Singapore,,Revit,Flex,Negotiation,460582.29,1253866.08,2023-02-02,26/05/2025,Brandon Thompson,Any it edge action structure total.
+OPP-10194,"Williams, Butler and Villarreal",EMEA,Germany,Media & Entertainment,AutoCAD,EBA,Negotiation,574125.68,1644356.05,2024-12-31,16/06/2025,Justin Mills,Executive want author same cultural.
+OPP-10178,"Patrick, Benson and Mendoza",APAC,Australia,Government,BIM 360,Subscription,Proposal,220306.13,583822.43,2024-07-14,31/08/2024,Mrs. Megan Smith DDS,
+OPP-10496,"Ferguson, Miller and Miller",emea,Poland,Manufacturing,BIM 360,EBA,Prospecting,,3621644.13,2024-10-11,2024-05-27,Mrs. Donna Ward,
+OPP-10129,"Mccoy, Woods and Ortega",AMER,United States,Media & Entertainment,Forma,EBA,Proposal,1140161.88,1394263.01,2024-12-04,2025-03-09,Donald Moore,Laugh drug require drive.
+OPP-10337,"Woodward, Fry and Lane",EMEA,Netherlands,Architecture,BIM 360,Flex,Closed Won,319219.27,945143.71,2023-01-16,05/11/2024,Shannon Gray,
+OPP-10124,Coffey and Sons,EMEA,Netherlands,Media & Entertainment,Fusion 360,EBA,Closed Won,1135567.36,1846549.79,2024-10-06,01/10/2024,Erin Villegas,Force general others high.
+OPP-10786,Lane-Herring,amer,Brazil,Energy,Inventor,Subscription,Closed Lost,272822.51,501479.97,2024-12-19,2024-04-08,Mary Christian,
+OPP-10226,Nunez Group,emea,Poland,Architecture,Civil 3D,EBA,PROPOSAL,1264440.19,3745111.69,2024-06-16,2024-05-21,Donald White,Hope place week effect force public vote.
+OPP-10268,Sanford Inc,APAC,Singapore,Media & Entertainment,Revit,EBA,Closed Lost,1751051.37,2405225.69,2023-07-04,2025-04-02,Dr. Amanda Reyes,
+OPP-10008,Braun Ltd,EMEA,Netherlands,Government,Fusion 360,EBA,Qualification ,200498.41,220233.18,2024-01-20,2024-01-27,Jennifer Logan,
+OPP-10103,"Howard, Ruiz and Miller",AMER,United States,Engineering,BIM 360,EBA,Proposal,1479911.05,3878414.51,2023-01-25,18/11/2025,Robert Adams,Commercial choice simply speak.
+OPP-10783,Miller-Miller,APAC,Australia,Construction,BIM 360,Subscription,Closed Lost,,82005.18,2023-12-25,12/02/2025,Brandon Thompson,
+OPP-10227,Vincent LLC,APAC,Australia,Government,Revit,Subscription,Closed Lost,105695.22,271340.95,2024-08-27,02/01/2025,Brandon Thompson,
+OPP-10728,"Frye, Skinner and Cortez",EMEA ,Germany,Construction,Revit,Subscription,Qualification,88767.87,194723.32,2024-12-28,2024-08-31,Veronica Newman,Unit table suggest your leave.
+OPP-10301,Mccullough and Sons,APAC,Japan,Media & Entertainment,Revit,Flex,Closed Lost,414504.7,1060025.53,2024-07-09,13/07/2025,Justin Brown DDS,
+OPP-10275,Mora-Harrison,EMEA,United Kingdom,Architecture,AutoCAD,Subscription,CLOSED LOST,38249.33,93557.81,2023-05-13,2024-07-04,Jennifer Cummings,Mission account magazine but.
+OPP-10126,Johnson-Gray,Emea,UAE,Government,Civil 3D,Subscription,PROPOSAL,141493.68,193302.39,2023-10-26,2025-10-15,Deborah Rodriguez,
+OPP-10405,"Porter, Bautista and Mcintosh",APAC,Australia,Government,Inventor,Flex,Closed Lost,272034.93,761757.23,2023-12-27,30/08/2024,Nicole Mason,
+OPP-10733,Day-Cummings,APAC,Japan,Government,Fusion 360,EBA,closed won,1644849.38,4842423.15,2024-10-15,2025-02-25,Christopher King,
+OPP-10036,"Cooper, Odom and Gregory",EMEA ,Germany,Manufacturing,AutoCAD,Subscription,Closed Won,127285.12,307201.6,2023-07-10,15/06/2025,Catherine Lewis,Culture away edge agency institution.
+OPP-10139,"Parsons, Wells and Jones",EMEA,Poland,Engineering,Revit,EBA,Prospecting,,613694.96,2024-05-27,2025-05-31,Katherine Hughes,
+OPP-10303,David-Schroeder,amer,United States,Energy,Fusion 360,EBA,Qualification ,358950.47,872059.24,2024-11-08,06/09/2025,Christopher King,
+OPP-10267,Robinson Inc,APac,Japan,Architecture,Revit,EBA,PROPOSAL,1449569.96,3318374.37,2023-11-24,2025-07-23,Deborah Rodriguez,
+OPP-10533,Williams Ltd,amer,Mexico,Government,Revit,Flex,CLOSED LOST,489106.95,1001577.07,2023-04-11,18/08/2025,Catherine Lewis,Item body audience wonder lawyer down.
+OPP-10212,"Williams, Powers and Clark",amer,Canada,Energy,Inventor,EBA,Qualification,747587.31,1502480.71,2024-02-21,2024-02-05,Erin Villegas,Look policy itself office figure most.
+OPP-10468,Gamble and Sons,AMER,Brazil,Energy,AutoCAD,Subscription,CLOSED LOST,96011.58,137262.75,2024-04-03,10/04/2025,Jonathan Reeves,
+OPP-10198,Perry-West,EMEA ,France,Engineering,Fusion 360,Subscription,Qualification,17985.48,20555.07,2023-05-24,2024-08-13,Dustin Hall,
+OPP-10527,"Anderson, Lewis and Ortiz",APAC,South Korea,Energy,Revit,EBA,Qualification,1612665.33,4740902.44,2024-09-11,30/12/2024,Justin Brown DDS,Up spring system degree knowledge buy.
+OPP-10652,Peters Inc,APAC,India,Energy,Inventor,EBA,PROPOSAL,154477.66,457906.36,2023-01-15,2024-02-10,Joseph Brown,Throughout financial choose sign.
+OPP-10241,"Payne, Johnson and Carpenter",AMER,Mexico,Government,Forma,Flex,Qualification ,263955.91,359217.06,2024-01-09,2024-01-03,Nathan Gray,
+OPP-10342,"Martin, Riley and Bush",EMEA,France,Energy,Forma,Flex,Qualification,460575.77,608805.42,2023-01-06,29/02/2024,Jeremy Mendoza,Analysis focus possible yet must.
+OPP-10386,Johnson Inc,amer,Brazil,Government,Forma,Flex,Proposal,406700.69,431092.71,2023-08-14,04/11/2025,Cynthia Gay,
+OPP-10708,"Avila, Clark and Garcia",APAC,Singapore,,Fusion 360,EBA,Qualification ,1076105.01,2178034.02,2024-09-16,29/03/2025,Veronica Newman,
+OPP-10206,Armstrong Inc,APAC,Japan,Engineering,Civil 3D,Subscription,prospecting,76457.02,175115.03,2024-12-14,2025-02-13,Nicole Mason,
+OPP-10295,"Owens, Howell and Campbell",apac,Japan,Construction,AutoCAD,EBA,Closed Won,1502269.95,1985148.56,2023-03-14,2025-07-13,Cynthia Gay,
+OPP-10748,"Walker, Turner and Moore",apac,Japan,Energy,AutoCAD,Flex,Proposal,304117.0,376632.77,2023-11-06,2024-03-30,Christina Steele,
+OPP-10073,Wolf PLC,EMEA ,Poland,Architecture,Revit,Flex,Proposal,457545.1,619614.18,2024-06-05,07/03/2022,Frank Cochran,
+OPP-10104,"Brown, Ward and Madden",APAC,South Korea,Media & Entertainment,BIM 360,Flex,Qualification ,373837.72,866257.77,2023-04-01,04/09/2025,Catherine Lewis,Attack senior policy might military trial hard.
+OPP-10224,Barber-Wilson,amer,Brazil,Energy,AutoCAD,Subscription,Proposal,238728.07,611396.01,2023-07-14,2024-04-20,Veronica Newman,
+OPP-10789,Knapp-Gardner,emea,Germany,Construction,AutoCAD,EBA,prospecting,1906960.8,3177273.57,2024-03-09,08/01/2025,Justin Mills,How quickly pull seek bank effort.
+OPP-10016,"Williams, Smith and Griffin",amer,United States,Manufacturing,BIM 360,Flex,Proposal,61561.82,125575.88,2023-07-09,06/11/2025,Shannon Gray,Money opportunity pressure simple market customer represent bed.
+OPP-10439,Clark-Peters,EMEA,United Kingdom,Media & Entertainment,Forma,EBA,prospecting,697734.17,1257963.62,2024-07-05,06/06/2024,Donald White,
+OPP-10091,"Reese, Gillespie and Mcdowell",APAC,Singapore,Government,Inventor,EBA,PROPOSAL,1556983.28,1967611.95,2024-08-02,05/08/2025,Frank Cochran,Spend certainly kid return certainly.
+OPP-10088,"Stark, Vaughn and Glass",APac,Japan,Engineering,Forma,Subscription,Qualification ,181288.22,334654.91,2023-03-04,18/07/2024,Donald White,
+OPP-10450,Moore and Sons,amer,United States,Manufacturing,Inventor,Subscription,PROPOSAL,54279.2,66956.53,2023-09-11,17/03/2024,Emily Walker,
+OPP-10102,Barber-Cabrera,APac,Singapore,,Fusion 360,EBA,Closed Lost,1503152.94,3999743.31,2023-03-08,2025-02-11,Matthew Bautista,
+OPP-10238,"Diaz, Medina and Hunt",amer,Canada,Energy,Inventor,Subscription,Closed Won,55243.87,146652.89,2023-01-15,2024-06-14,Christopher King,
+OPP-10592,Garcia-Mann,amer,Canada,Government,Revit,Subscription,Qualification,266916.51,442599.26,2023-03-25,20/09/2022,Emily Walker,Enter pay add from.
+OPP-10246,Bryan-Jones,EMEA,United Kingdom,Engineering,Civil 3D,Flex,Proposal,48216.01,103625.16,2024-05-21,17/09/2025,Veronica Newman,
+OPP-10587,Cummings LLC,APAC,Singapore,Architecture,Revit,Flex,Closed Lost,419262.24,1129014.49,2024-05-03,2025-06-30,Matthew Bautista,Before class dog until performance opportunity.
+OPP-10157,"Obrien, Norman and Beltran",Emea,Poland,Government,Fusion 360,Flex,CLOSED LOST,206536.07,239355.94,2024-11-13,30/11/2024,Justin Mills,Range agency start instead thank.
+OPP-10479,Hill LLC,emea,Poland,,Civil 3D,Flex,Negotiation,65897.7,110254.68,2024-09-16,2025-05-18,Donald White,Usually you page federal drug detail stock.
+OPP-10696,"Morales, Diaz and Valenzuela",EMEA ,Netherlands,Manufacturing,Fusion 360,Flex,Proposal,406411.92,867780.2,2024-07-16,2025-01-27,Nathan Gray,Serious lot power cell look.
+OPP-10676,"Webb, Thomas and Johnson",apac,South Korea,Energy,Fusion 360,Subscription,Proposal,238363.2,498010.36,2023-11-18,17/11/2024,Donald Moore,
+OPP-10018,Carter-Liu,Emea,United Kingdom,Architecture,Civil 3D,Flex,Closed Won,101996.65,235706.2,2023-08-08,09/04/2025,Emily Walker,Cultural agreement size participant.
+OPP-10582,Sutton Group,EMEA ,United Kingdom,Manufacturing,BIM 360,EBA,Closed Won,1019256.46,1444140.12,2024-05-03,06/03/2025,Jeremy Mendoza,
+OPP-10121,Bradley-Kelley,EMEA,United Kingdom,Architecture,Inventor,Subscription,prospecting,77885.01,199484.07,2023-08-19,25/09/2024,Mary Christian,
+OPP-10581,Sparks and Sons,emea,UAE,Engineering,AutoCAD,EBA,Qualification ,362132.46,643936.27,2024-12-30,05/04/2024,Justin Brown DDS,Receive material feel travel summer early.
+OPP-10274,"Soto, Schmidt and Hughes",APAC,India,Architecture,AutoCAD,EBA,CLOSED LOST,321919.07,397942.97,2024-02-12,2024-02-19,Matthew Moore,
+OPP-10433,Bradford and Sons,AMER,Brazil,,Civil 3D,Subscription,Closed Won,176132.63,416770.86,2023-10-05,2022-03-27,Emily Walker,
+OPP-10737,Stewart Ltd,AMER,Mexico,,Fusion 360,EBA,CLOSED LOST,1380073.89,1427530.83,2024-09-05,2025-04-20,Frank Cochran,
+OPP-10311,Wilcox Group,EMEA ,Germany,Media & Entertainment,Fusion 360,Subscription,Closed Lost,18852.7,35116.55,2024-11-29,07/10/2024,Matthew Bautista,
+OPP-10623,Howe Group,APAC,Singapore,Energy,Revit,Subscription,CLOSED LOST,122519.64,298169.8,2023-01-03,21/02/2024,Erin Villegas,Thing a pay science source.
+OPP-10686,Bryant-Brennan,EMEA ,United Kingdom,Construction,Forma,EBA,Negotiation,940454.98,2366904.2,2023-03-09,2025-03-18,Emily Walker,
+OPP-10546,Hernandez-Smith,emea,Netherlands,Construction,BIM 360,Subscription,Prospecting,148569.41,398325.47,2024-06-26,2024-01-17,Emily Walker,Price various responsibility analysis student air middle.
+OPP-10181,Caldwell LLC,amer,United States,Construction,Inventor,EBA,PROPOSAL,417109.84,585245.93,2023-11-29,24/02/2025,Jonathan Reeves,
+OPP-10184,Vazquez-Bass,APAC,Singapore,Government,Revit,Flex,Qualification ,75408.5,91971.89,2024-01-29,12/08/2024,Catherine Lewis,
+OPP-10406,Jordan-Martin,amer,Mexico,Media & Entertainment,Fusion 360,Flex,Qualification ,9999999.0,,2023-08-27,2024-05-07,Mary Christian,Nearly hundred explain read card friend pull.
+OPP-10520,Wood-Villa,AMER,Brazil,,BIM 360,Flex,prospecting,39807.81,84516.57,2023-02-26,2024-09-27,Jennifer Cummings,
+OPP-10380,Gonzalez LLC,amer,Mexico,Construction,Fusion 360,EBA,Qualification ,1639246.2,2376621.26,2024-04-16,10/07/2024,Jeremy Mendoza,Sport language first.
+OPP-10410,Wilson Group,EMEA,Poland,Media & Entertainment,BIM 360,Flex,Qualification ,34277.23,62626.25,2023-01-09,02/07/2024,Thomas Rivera,
+OPP-10369,Jackson-Rogers,EMEA,Poland,Government,Civil 3D,Flex,Qualification,145294.38,192519.0,2024-11-04,2024-04-08,Robert Burns,
+OPP-10668,"Hart, Gutierrez and Sanchez",APac,Australia,Energy,Revit,Subscription,Negotiation,0.0,,2023-05-31,28/10/2025,Gary Weaver,
+OPP-10619,"Cox, Long and Green",Emea,Poland,Engineering,BIM 360,Subscription,Closed Lost,179281.96,484701.01,2023-08-04,2025-04-15,Nicole Mason,
+OPP-10078,Smith Inc,EMEA ,France,Architecture,Forma,EBA,prospecting,1063757.64,2498769.08,2023-03-23,21/11/2025,Erin Villegas,
+OPP-10573,Rivera-Goodman,apac,South Korea,Engineering,BIM 360,Flex,Negotiation,442876.0,726882.65,2024-06-23,27/06/2025,Veronica Newman,Within certainly traditional soon level my.
+OPP-10653,Brennan-Rice,EMEA ,Netherlands,Government,BIM 360,EBA,Proposal,644441.71,1520097.68,2023-04-17,2025-06-19,Shannon Gray,Eat possible seek as girl.
+OPP-10289,Miller LLC,AMER,United States,Engineering,Forma,EBA,Prospecting,1048459.31,3022659.13,2023-09-16,2022-12-02,Frank Cochran,Particularly real open see big.
+OPP-10682,"Gomez, Foster and Vaughn",apac,Australia,Government,Forma,Flex,Closed Won,59765.04,97810.48,2023-04-13,2024-11-26,Robert Adams,
+OPP-10758,"Burke, Cantu and Cruz",amer,Canada,Media & Entertainment,Revit,Flex,Negotiation,332765.74,401502.83,2024-09-19,01/08/2024,Mrs. Donna Ward,
+OPP-10416,Young-Bowman,emea,Poland,Energy,AutoCAD,EBA,Qualification,1768086.97,3027810.18,2023-04-28,2024-07-27,Julie Molina,
+OPP-10608,Castillo-Parks,apac,Japan,Energy,Civil 3D,Flex,Proposal,206032.22,525572.88,2023-05-11,2024-08-24,Jennifer Cummings,
+OPP-10561,Nguyen-Harris,APAC,Australia,Construction,Revit,EBA,closed won,0.0,,2024-09-01,2024-02-17,Nicole Mason,Indeed why far true not president.
+OPP-10067,Hunt Inc,EMEA,France,Media & Entertainment,Fusion 360,EBA,closed won,1779038.46,3449796.37,2023-05-02,29/06/2025,Justin Brown DDS,
+OPP-10536,Reid and Sons,APAC,Singapore,Architecture,Inventor,Flex,prospecting,247730.68,389827.0,2024-04-03,2025-03-05,Donald White,
+OPP-10077,Boyd LLC,amer,Canada,Energy,Revit,Flex,Qualification ,321295.49,476012.57,2024-06-02,17/10/2025,Donald White,
+OPP-10105,Brown-King,APac,Japan,Government,Fusion 360,Subscription,CLOSED LOST,56319.01,112019.71,2024-04-23,21/12/2024,Dustin Hall,
+OPP-10708,"Avila, Clark and Garcia",APAC,Singapore,,Fusion 360,EBA,Qualification ,1076105.01,2178034.02,2024-09-16,29/03/2025,Veronica Newman,
+OPP-10640,Odom PLC,amer,Brazil,Media & Entertainment,Inventor,EBA,PROPOSAL,1208350.98,2277349.21,2023-07-03,2024-09-18,Jeremy Mendoza,
+OPP-10559,Freeman-Frazier,APAC,Japan,Government,Fusion 360,Subscription,Prospecting,232859.21,312797.67,2023-05-09,2025-03-16,Kathleen Smith,
+OPP-10715,"Collins, Yang and Rose",Emea,Germany,Engineering,BIM 360,Subscription,prospecting,269596.48,474241.55,2023-04-01,30/01/2024,Alyssa Henry,
+OPP-10769,Hansen PLC,APac,South Korea,Manufacturing,Inventor,Flex,CLOSED LOST,111354.29,244844.47,2024-10-17,24/11/2025,Mary Christian,
+OPP-10638,"Martinez, Berg and Ramirez",apac,South Korea,Manufacturing,Inventor,EBA,PROPOSAL,,870672.42,2023-04-16,06/03/2025,Jennifer Logan,However increase send question as.
+OPP-10490,Hudson-Mcfarland,AMER,Mexico,Media & Entertainment,Civil 3D,EBA,Negotiation,631236.3,1597357.05,2023-06-27,2025-06-01,Erin Villegas,Though social population probably member.
+OPP-10437,Anderson-Brooks,EMEA,UAE,Media & Entertainment,Inventor,EBA,Closed Lost,1378548.56,3160480.09,2024-03-17,2025-01-21,Mrs. Donna Ward,
+OPP-10695,Coleman and Sons,AMER,United States,,Inventor,Flex,Closed Lost,83362.77,124262.75,2024-02-18,03/05/2024,Nathan Gray,
+OPP-10605,Myers-Gonzalez,EMEA,France,,Revit,Subscription,PROPOSAL,181017.87,277413.55,2023-08-17,2025-04-14,Jennifer Logan,
+OPP-10363,Hale-Lloyd,APac,South Korea,Media & Entertainment,Inventor,Subscription,Proposal,49682.71,77663.01,2024-01-29,2025-02-06,Debra Dawson,Consider similar form house born series.
+OPP-10069,Wade Group,EMEA,Netherlands,Manufacturing,AutoCAD,Flex,CLOSED LOST,443945.89,542476.85,2023-03-12,30/06/2024,Donald Mccarty,Half huge product information.
+OPP-10548,"Gordon, Wilson and Carr",AMER,Mexico,Manufacturing,BIM 360,Flex,CLOSED LOST,244335.05,582313.24,2023-12-13,2024-08-01,Nathan Gray,
+OPP-10160,"Vasquez, Walker and Moore",apac,India,Engineering,BIM 360,Flex,PROPOSAL,409732.78,750467.41,2024-08-03,17/12/2025,Deborah Rodriguez,Per research approach hear among.
+OPP-10011,Johnson Inc,EMEA ,Germany,,BIM 360,EBA,CLOSED LOST,870919.49,1179849.24,2023-10-09,2025-10-24,Donald White,
+OPP-10144,Kim PLC,emea,Germany,Media & Entertainment,BIM 360,EBA,Proposal,798526.95,2290138.85,2023-03-21,04/09/2025,Alyssa Henry,
+OPP-10517,Schneider-Walker,EMEA ,UAE,Energy,BIM 360,EBA,Qualification,1147288.5,1149878.14,2023-05-22,2025-10-30,Joseph Brown,
+OPP-10427,Roman-Howard,apac,Singapore,Media & Entertainment,Forma,Flex,Negotiation,395463.27,744029.54,2023-02-21,30/01/2025,Alyssa Henry,
+OPP-10176,Brady-Tran,Emea,France,Media & Entertainment,BIM 360,EBA,Qualification,1905620.08,2510871.49,2024-05-03,2024-02-13,Mrs. Donna Ward,Serve grow woman him movement.
+OPP-10440,Mcclain-Ortiz,amer,Brazil,Media & Entertainment,Fusion 360,Subscription,closed won,96244.65,272481.36,2024-11-20,2024-01-01,Deborah Rodriguez,
+OPP-10521,Williamson-Perkins,amer,United States,Construction,AutoCAD,Subscription,Qualification,271703.46,660418.8,2023-12-26,2024-04-01,Donald White,
+OPP-10717,"Rosales, Anderson and Young",EMEA ,Netherlands,Energy,Inventor,EBA,PROPOSAL,1700907.95,2071313.87,2024-12-20,30/10/2024,Katherine Hughes,Teach certain move official throughout.
+OPP-10773,Martin LLC,apac,Singapore,Manufacturing,Fusion 360,Subscription,Prospecting,189217.29,507403.17,2024-02-17,2025-06-12,Jennifer Logan,
+OPP-10231,"Weaver, Smith and Clark",amer,Mexico,Government,Civil 3D,EBA,Closed Lost,298193.21,818147.14,2023-02-25,09/04/2025,Jennifer Logan,
+OPP-10210,Caldwell Ltd,EMEA,Netherlands,Energy,Civil 3D,Subscription,Prospecting,105279.06,146196.59,2023-10-26,2024-09-01,Jennifer Cummings,
+OPP-10143,Thomas-Jones,EMEA,UAE,Construction,Forma,Flex,Negotiation,18025.24,34727.4,2023-09-16,13/05/2025,Matthew Bautista,Per return kitchen.
+OPP-10519,"York, Caldwell and Berry",AMER,United States,Architecture,Fusion 360,EBA,Qualification,1986107.16,5109466.36,2023-04-20,16/07/2025,Erin Villegas,
+OPP-10341,"Cannon, Gutierrez and Miles",EMEA,Germany,Construction,Forma,Flex,Closed Won,358050.24,1038803.39,2023-03-06,2025-10-09,Matthew Moore,
+OPP-10298,Mendoza-Rivera,APAC,South Korea,Architecture,Civil 3D,EBA,Closed Won,875393.39,2259339.31,2023-10-01,2024-02-14,Justin Mills,
+OPP-10428,Rose Inc,Emea,Poland,Media & Entertainment,Forma,EBA,Qualification,1257774.82,1628649.52,2024-02-08,30/06/2025,Christina Steele,
+OPP-10612,Lee-James,EMEA,United Kingdom,Architecture,Civil 3D,Flex,Closed Lost,,158862.44,2024-09-05,2024-03-27,Mrs. Megan Smith DDS,
+OPP-10761,Wright-Smith,Emea,UAE,Construction,Inventor,Flex,Negotiation,488939.64,1053915.57,2024-06-07,27/10/2024,Catherine Lewis,Mention keep hospital.
+OPP-10008,Braun Ltd,EMEA,Netherlands,Government,Fusion 360,EBA,Qualification ,200498.41,220233.18,2024-01-20,2024-01-27,Jennifer Logan,
+OPP-10156,"Stokes, Mays and Peterson",EMEA ,Germany,,AutoCAD,Flex,Closed Lost,87123.08,202998.27,2024-09-13,17/08/2024,Alyssa Henry,Few thus Democrat wait eat deal own order.
+OPP-10539,Hawkins Inc,amer,Canada,,Civil 3D,Flex,Qualification,36910.17,52972.41,2023-11-02,28/05/2024,Catherine Lewis,
+OPP-10506,Hall-Davies,amer,Brazil,Media & Entertainment,Civil 3D,Subscription,prospecting,131810.78,363483.56,2024-09-13,02/07/2025,Emily Walker,
+OPP-10436,Bowman-Nguyen,EMEA,Germany,Government,Civil 3D,Flex,prospecting,462789.67,835079.15,2023-02-13,2024-06-04,Veronica Newman,
+OPP-10266,"Hall, Green and Hall",EMEA,United Kingdom,Government,Fusion 360,EBA,Qualification,1917106.68,2206064.02,2023-06-25,13/04/2024,Nicole Mason,
+OPP-10461,Dickerson Ltd,AMER,United States,Government,Civil 3D,Flex,Qualification,324942.14,475017.44,2023-04-26,2025-10-08,Mrs. Megan Smith DDS,
+OPP-10576,Andrews-Bean,APac,India,Media & Entertainment,Revit,Subscription,Proposal,195605.13,427992.49,2023-06-16,2024-09-08,Donald White,
+OPP-10338,Bailey-Haynes,EMEA,United Kingdom,Government,Forma,Flex,PROPOSAL,164033.75,261403.48,2024-05-13,12/04/2025,Julie Molina,
+OPP-10255,Reese and Sons,EMEA,UAE,Architecture,Forma,Subscription,prospecting,232079.02,475168.33,2023-12-29,2024-06-30,Mrs. Donna Ward,
+OPP-10663,"Brown, Armstrong and Sanchez",AMER,Brazil,Media & Entertainment,AutoCAD,Flex,Negotiation,169297.09,485189.67,2023-09-20,2024-11-05,Donald White,
+OPP-10701,Lowe Inc,AMER,Brazil,Architecture,Civil 3D,EBA,Prospecting,1438913.97,2158862.01,2023-03-29,2024-11-15,Veronica Newman,
+OPP-10560,"Roberts, Smith and Cannon",EMEA ,France,Construction,Revit,Subscription,Closed Won,225930.98,415123.71,2024-04-08,2024-01-01,Deborah Rodriguez,Alone west commercial.
+OPP-10208,Fowler-Bryant,APAC,Japan,Construction,Fusion 360,Flex,Proposal,30736.41,83939.17,2024-11-22,2025-01-12,Mary Christian,
+OPP-10287,Smith and Sons,apac,India,Energy,BIM 360,Flex,Closed Lost,24545.18,44307.97,2023-12-08,2024-07-22,Jennifer Logan,True continue grow moment back whole.
+OPP-10001,Cook PLC,APAC,Japan,Construction,Forma,EBA,Closed Lost,519989.47,1369974.65,2023-09-09,01/12/2024,Mary Christian,
+OPP-10341,"Cannon, Gutierrez and Miles",EMEA,Germany,Construction,Forma,Flex,Closed Won,358050.24,1038803.39,2023-03-06,2025-10-09,Matthew Moore,
+OPP-10269,Estes-Velez,EMEA,United Kingdom,Engineering,Fusion 360,EBA,CLOSED LOST,1016745.37,2152068.16,2023-08-08,2025-05-17,Jennifer Cummings,
+OPP-10265,Miller Group,apac,India,,BIM 360,Subscription,Qualification ,120786.19,168695.11,2023-05-04,22/10/2025,Thomas Rivera,Hotel paper example between news.
+OPP-10671,"Robinson, Mercer and Black",EMEA,Poland,Engineering,Fusion 360,Subscription,closed won,210417.75,585592.7,2024-08-07,2025-03-06,Mary Christian,Pressure to rather though responsibility will perform.
+OPP-10675,Rodriguez PLC,emea,Netherlands,Government,BIM 360,Subscription,Prospecting,9999999.0,,2023-10-07,09/07/2025,Justin Brown DDS,Open sense bit sound only see.
+OPP-10095,"Mills, Wiley and Sanchez",emea,Germany,,Civil 3D,Flex,Prospecting,49507.44,111173.1,2024-02-11,2024-08-05,Justin Brown DDS,
+OPP-10795,Baker Group,apac,Singapore,Engineering,Forma,Flex,Prospecting,456566.68,1133821.12,2023-04-01,2024-02-07,Donald White,Difference second party.
+OPP-10042,Walker-Hernandez,apac,Australia,Engineering,Fusion 360,EBA,prospecting,1211905.35,2072738.57,2024-01-26,14/12/2025,Veronica Newman,Billion when maybe among staff red design.
+OPP-10662,Holmes-Mckinney,EMEA,France,Manufacturing,Inventor,Flex,Proposal,0.0,,2024-06-20,02/04/2025,Katherine Hughes,
+OPP-10301,Mccullough and Sons,APAC,Japan,Media & Entertainment,Revit,Flex,Closed Lost,414504.7,1060025.53,2024-07-09,13/07/2025,Justin Brown DDS,
+OPP-10685,"Turner, Luna and King",AMER,Mexico,Construction,Forma,Flex,Closed Lost,36184.04,57309.91,2024-10-16,2024-11-05,Matthew Bautista,Simple model traditional.
+OPP-10628,Fuentes-Torres,amer,United States,Construction,Revit,Subscription,Qualification,116678.83,209868.04,2024-07-04,09/10/2024,Dr. Amanda Reyes,
+OPP-10045,Norton and Sons,APac,Japan,Manufacturing,Fusion 360,EBA,CLOSED LOST,,1357149.64,2024-12-24,30/06/2024,Dustin Hall,Article southern fish me recently break.
+OPP-10161,Hernandez-Chavez,Emea,Germany,,AutoCAD,EBA,Qualification ,1066411.65,1797891.11,2023-07-04,2025-03-03,Donald Moore,
+OPP-10629,Shields PLC,amer,Mexico,Government,AutoCAD,Flex,Closed Won,,663455.15,2023-01-19,2024-11-17,Justin Brown DDS,
+OPP-10288,Kennedy-Walker,APAC,India,Manufacturing,Inventor,EBA,prospecting,268537.92,322335.29,2024-12-17,2022-01-30,Debra Dawson,
+OPP-10589,Holloway LLC,APAC,India,Construction,Revit,Subscription,Negotiation,124218.99,309689.08,2024-11-05,31/10/2024,Shannon Gray,
+OPP-10735,Ashley Group,APac,Singapore,Media & Entertainment,Inventor,Flex,Qualification,185378.77,409812.97,2023-01-02,2024-10-06,Cynthia Gay,
+OPP-10782,"Thomas, Rodriguez and Miller",EMEA ,Germany,Manufacturing,Revit,Flex,CLOSED LOST,116137.1,137955.93,2024-11-05,10/05/2025,Donald Moore,Sign management voice song.
+OPP-10575,Shaw Inc,amer,Mexico,Government,Revit,Subscription,Qualification,261525.03,657438.86,2024-06-30,2024-07-06,Nicole Mason,
+OPP-10315,Gomez and Sons,apac,Singapore,Construction,Inventor,EBA,PROPOSAL,871765.5,2356882.26,2023-07-01,2024-10-14,Jeremy Mendoza,
+OPP-10230,"Miller, Coleman and Myers",APac,India,Construction,Civil 3D,Flex,Negotiation,37023.94,97989.39,2023-03-18,2024-03-24,Mary Christian,
+OPP-10679,"Cooper, Ortega and Parsons",AMER,Brazil,Energy,BIM 360,EBA,closed won,,3084153.13,2024-11-02,10/04/2024,Donald White,Kitchen whom church clear according low moment guy.
+OPP-10076,Clark-Lam,emea,UAE,Construction,Inventor,Subscription,Qualification,220811.6,460170.68,2023-07-09,01/04/2022,Donald Mccarty,
+OPP-10633,"Moore, Leblanc and Oconnell",APAC,Japan,Architecture,Inventor,EBA,PROPOSAL,1502227.97,3264767.0,2023-09-30,09/01/2024,Justin Mills,
+OPP-10799,"Rice, Mitchell and Rivera",emea,Netherlands,Government,BIM 360,Flex,prospecting,494860.14,1097793.95,2023-07-11,2025-07-17,Matthew Moore,
+OPP-10247,Schneider and Sons,EMEA,Germany,Government,Fusion 360,Subscription,Closed Lost,298286.61,518231.77,2024-11-28,26/11/2022,Justin Brown DDS,Mention maintain seek.
+OPP-10476,"Rodriguez, Green and Ellis",Emea,Netherlands,Energy,Revit,Subscription,PROPOSAL,267500.72,363346.29,2024-06-16,09/05/2024,Frank Cochran,
+OPP-10670,Anderson-Lee,APAC,India,Government,Fusion 360,Subscription,PROPOSAL,38535.24,50786.9,2024-06-09,2025-03-11,Donald White,
+OPP-10085,Jacobs-Rogers,apac,Singapore,Media & Entertainment,Civil 3D,Flex,Closed Lost,352181.48,925055.3,2024-10-09,09/08/2025,Christina Steele,
+OPP-10469,Fernandez PLC,APac,Singapore,Architecture,AutoCAD,Flex,prospecting,157137.33,310607.2,2023-09-24,2024-10-23,Dustin Hall,
+OPP-10225,Johnston-Christian,APac,Australia,,Inventor,Subscription,Prospecting,144528.38,361111.83,2024-04-13,2025-03-03,Nicole Mason,
+OPP-10331,"Peters, Martin and Diaz",emea,Poland,Media & Entertainment,Fusion 360,Flex,CLOSED LOST,472268.62,656441.49,2023-10-10,07/03/2025,Nicole Mason,
+OPP-10233,Mullen-Williams,APAC,Japan,Engineering,Civil 3D,EBA,PROPOSAL,0.0,,2024-10-02,30/04/2025,Julie Molina,
+OPP-10588,"Strickland, Duarte and Burns",EMEA ,Germany,Government,Inventor,Subscription,closed won,67622.21,115147.47,2024-01-20,25/03/2024,Matthew Bautista,
+OPP-10475,"Bryant, Gonzales and Cherry",Emea,Germany,Media & Entertainment,AutoCAD,Subscription,prospecting,125831.63,200711.72,2023-06-24,28/10/2025,Donald Moore,Again almost turn speak forget age put.
+OPP-10734,"Robinson, Horne and Garcia",APac,Japan,Media & Entertainment,AutoCAD,Flex,Negotiation,255736.08,345238.2,2023-12-26,2025-11-06,Jonathan Reeves,
+OPP-10718,Carlson LLC,EMEA ,United Kingdom,Government,Revit,Flex,Closed Lost,424775.47,815708.73,2023-07-05,2025-10-19,Donald Moore,
+OPP-10599,Kemp-Thompson,amer,Mexico,Engineering,BIM 360,Subscription,prospecting,153089.39,258335.23,2024-10-11,20/01/2025,Jennifer Cummings,
+OPP-10421,Cook-Johnson,EMEA ,United Kingdom,Construction,Inventor,Flex,Qualification ,158028.06,209662.0,2023-06-08,2024-08-21,Mrs. Donna Ward,
+OPP-10687,Thompson-Barr,amer,Brazil,Energy,Civil 3D,Flex,PROPOSAL,459328.28,1112190.27,2023-08-28,16/04/2024,Katherine Hughes,
+OPP-10182,"Chavez, Bailey and Rowe",Emea,Germany,Energy,Forma,Subscription,CLOSED LOST,149229.49,167015.35,2023-02-20,26/08/2022,Matthew Moore,
+OPP-10617,Herrera-Marquez,Emea,Netherlands,Engineering,Revit,Subscription,CLOSED LOST,90662.01,265524.58,2023-09-11,10/11/2024,Donald Mccarty,
+OPP-10332,Morgan Group,Emea,UAE,Government,Forma,EBA,Prospecting,0.0,,2024-02-18,23/05/2022,Jennifer Logan,Operation artist authority.
+OPP-10438,Vang LLC,emea,Germany,Government,BIM 360,EBA,Qualification ,1556523.77,1756482.1,2023-10-07,2025-08-10,Gary Weaver,
+OPP-10049,Smith Ltd,apac,Australia,Architecture,Inventor,EBA,PROPOSAL,1277876.99,1505818.29,2023-10-22,01/12/2025,Justin Mills,Collection discuss war.
+OPP-10005,Zamora-Moody,apac,India,Architecture,BIM 360,EBA,CLOSED LOST,486096.57,771740.32,2024-06-24,10/12/2025,Donald Moore,Participant direction live director here goal.
+OPP-10529,Turner Ltd,APac,Japan,Construction,BIM 360,EBA,closed won,1235369.99,3252874.15,2024-02-19,2025-02-18,Robert Adams,
+OPP-10234,"Bender, Hall and Brown",EMEA ,United Kingdom,Construction,Inventor,Subscription,CLOSED LOST,24811.64,70991.61,2023-07-27,2025-04-09,Donald Mccarty,
+OPP-10486,Juarez PLC,emea,Netherlands,Media & Entertainment,BIM 360,Subscription,Prospecting,252304.15,755281.79,2024-05-12,05/07/2024,Brandon Thompson,
+OPP-10743,Williamson PLC,APAC,Australia,Engineering,Revit,Flex,CLOSED LOST,156432.06,281098.48,2024-01-02,2024-08-13,Donald Moore,
+OPP-10497,Edwards Inc,APAC,Singapore,,Forma,Subscription,Negotiation,57349.54,136938.91,2023-11-02,27/05/2024,Thomas Rivera,
+OPP-10740,Walker-Griffith,amer,Canada,,AutoCAD,EBA,CLOSED LOST,1824066.75,3839841.44,2023-09-03,16/02/2025,Nathan Gray,Suddenly town individual ground before.
+OPP-10106,Floyd LLC,APAC,Australia,,Civil 3D,Flex,Qualification,185747.66,505126.47,2024-07-06,27/11/2025,Jonathan Reeves,
+OPP-10443,"Williams, French and Walker",amer,Brazil,Manufacturing,BIM 360,Flex,closed won,288492.46,631256.97,2024-04-27,2025-09-21,Donald Moore,
+OPP-10488,Martinez-Fields,Emea,UAE,Architecture,Revit,Flex,closed won,321058.61,680783.28,2023-09-29,13/02/2024,Donald White,
+OPP-10646,Small-Khan,apac,India,Media & Entertainment,Revit,Subscription,Qualification,162800.66,387055.26,2023-02-17,2024-05-19,Donald White,
+OPP-10012,"Willis, Crosby and Willis",EMEA,Germany,Engineering,BIM 360,Flex,Prospecting,403166.33,1181519.4,2024-09-24,28/02/2025,Dr. Amanda Reyes,
+OPP-10190,Miller Inc,emea,Poland,Energy,AutoCAD,EBA,Proposal,1143248.51,1157782.87,2024-05-02,2025-12-06,Deborah Rodriguez,People blood board at until.
+OPP-10282,"Martin, Evans and Richardson",AMER,United States,Architecture,AutoCAD,Subscription,PROPOSAL,124634.3,271733.41,2024-01-13,09/03/2025,Nathan Gray,
+OPP-10029,Romero and Sons,amer,United States,Manufacturing,AutoCAD,EBA,PROPOSAL,1462214.79,2991005.36,2023-02-10,21/12/2024,Joseph Brown,Listen indicate along thus simply.
+OPP-10169,Clark-Jones,emea,Poland,Government,Fusion 360,Subscription,Prospecting,188000.88,367989.3,2023-06-16,2024-05-29,Nathan Gray,
+OPP-10180,"Bailey, Berry and Wyatt",EMEA,UAE,Engineering,Civil 3D,EBA,CLOSED LOST,1465476.15,1795541.11,2023-02-17,2024-03-14,Donald White,
+OPP-10100,"Brock, Bennett and Ellis",EMEA ,Netherlands,Construction,Inventor,Subscription,Closed Lost,33683.64,61808.61,2024-10-23,2024-07-14,Mary Christian,
+OPP-10197,King-Hughes,EMEA,United Kingdom,,Civil 3D,EBA,closed won,1628044.36,1900148.8,2024-06-04,2025-09-13,Jennifer Cummings,
+OPP-10495,House-Tanner,Emea,Netherlands,Government,Inventor,EBA,Prospecting,667072.18,1420898.63,2024-12-25,2025-12-07,Kathleen Smith,
+OPP-10647,Soto-Osborne,emea,Germany,Media & Entertainment,Forma,EBA,closed won,,951866.69,2024-11-06,13/03/2024,Debra Dawson,Herself will blue hotel bill still.
+OPP-10735,Ashley Group,APac,Singapore,Media & Entertainment,Inventor,Flex,Qualification,185378.77,409812.97,2023-01-02,2024-10-06,Cynthia Gay,
+OPP-10766,"Thompson, Brown and Williamson",apac,South Korea,Government,BIM 360,EBA,Qualification ,1343449.2,2655294.19,2024-08-04,2025-12-16,Jennifer Logan,
+OPP-10710,Henderson-Malone,Emea,Netherlands,Energy,Forma,EBA,PROPOSAL,1994965.8,5827060.42,2023-12-07,30/07/2025,Catherine Lewis,Although describe one interest form.
+OPP-10373,Adams LLC,APAC,Japan,Architecture,AutoCAD,Subscription,Prospecting,238948.92,346115.1,2024-04-12,15/04/2025,Frank Cochran,
+OPP-10678,Garrett PLC,APac,Japan,,Civil 3D,Flex,closed won,211402.21,380163.8,2023-01-18,2025-12-02,Christopher King,
+OPP-10731,Taylor Inc,Emea,Netherlands,Manufacturing,Inventor,Flex,CLOSED LOST,112021.54,202581.4,2023-05-30,07/07/2024,Catherine Lewis,
+OPP-10648,"Calderon, Roberson and Thomas",amer,Brazil,Engineering,Forma,Flex,PROPOSAL,200611.97,289337.52,2024-03-22,05/08/2025,Mary Christian,
+OPP-10460,"Harper, Gentry and Allen",Emea,UAE,Construction,Revit,EBA,PROPOSAL,329619.1,705043.54,2024-03-24,2025-07-08,Emily Walker,Really executive catch hundred ready.
+OPP-10413,"Costa, Moran and Miller",APac,South Korea,Media & Entertainment,Revit,EBA,Qualification ,757147.81,1564537.83,2024-09-11,2025-05-03,Jennifer Cummings,
+OPP-10131,"Flores, Hawkins and Haney",AMER,Canada,Manufacturing,AutoCAD,Subscription,Closed Lost,84570.1,235423.74,2023-04-08,2024-09-09,Hannah Rivera,
+OPP-10039,"Browning, Smith and Santos",apac,South Korea,Government,BIM 360,EBA,PROPOSAL,,3198089.22,2023-03-08,09/10/2024,Veronica Newman,Writer style green near.
+OPP-10434,Peterson-Johns,amer,Brazil,Media & Entertainment,Revit,Subscription,Closed Won,189054.64,345635.3,2024-03-13,11/10/2025,Justin Brown DDS,
+OPP-10215,"Buckley, Brown and Wilson",Emea,Germany,Manufacturing,AutoCAD,EBA,Proposal,1645750.18,1732567.28,2024-07-06,2024-10-26,Katherine Hughes,Bring discuss southern believe large.
+OPP-10555,Steele Ltd,AMER,United States,Energy,Fusion 360,EBA,CLOSED LOST,,1527441.42,2024-03-08,2022-02-06,Gary Weaver,
+OPP-10566,"Stone, Robbins and Hernandez",emea,Netherlands,Media & Entertainment,Inventor,EBA,prospecting,721631.51,1108717.1,2023-06-13,08/03/2024,Gary Weaver,
+OPP-10474,Walls Inc,Emea,United Kingdom,Engineering,Civil 3D,Subscription,Closed Lost,13552.98,27954.15,2023-02-19,2025-06-29,Hannah Rivera,Million than only college respond result machine name.
+OPP-10456,"Walker, Wood and Salinas",APac,South Korea,Government,AutoCAD,Flex,Proposal,271515.05,485739.6,2023-11-20,11/01/2024,Donald White,
+OPP-10260,"Newton, Davidson and Long",emea,UAE,Media & Entertainment,BIM 360,Flex,closed won,344177.52,837547.39,2023-10-19,16/06/2025,Jonathan Reeves,
+OPP-10035,"Wilson, Garcia and Green",amer,Brazil,Engineering,Revit,Flex,Prospecting,85955.79,161658.07,2024-05-21,2024-08-17,Thomas Rivera,
+OPP-10309,Swanson Group,EMEA,United Kingdom,,Forma,Subscription,Closed Won,77686.97,87299.51,2023-12-26,2024-04-26,Julie Molina,
+OPP-10276,Sims-Parker,emea,Germany,,Civil 3D,Subscription,Qualification ,9999999.0,,2024-01-25,11/12/2024,Nicole Mason,Tend again identify eat.
+OPP-10636,King-Russo,Emea,France,Construction,Forma,Flex,CLOSED LOST,77160.48,91136.24,2024-07-24,11/09/2025,Mrs. Donna Ward,
+OPP-10654,Aguilar and Sons,EMEA ,Poland,Architecture,Forma,EBA,Proposal,1456221.55,3195577.39,2024-08-26,2025-09-27,Thomas Rivera,
+OPP-10622,Martin-Thomas,APAC,Japan,,Fusion 360,EBA,Closed Lost,1182937.13,1408727.15,2023-12-19,2024-12-20,Jennifer Logan,
+OPP-10393,"Adams, Jennings and Woods",apac,Japan,Energy,Fusion 360,EBA,PROPOSAL,801660.45,1922879.62,2023-06-01,2024-06-22,Donald Mccarty,Model interesting surface let civil my me.
+OPP-10107,"Willis, Coleman and Livingston",APac,Japan,Media & Entertainment,Forma,Subscription,Qualification,238721.95,240651.06,2024-03-05,2024-04-24,Mrs. Donna Ward,
+OPP-10780,Vazquez-Snyder,apac,Japan,Manufacturing,AutoCAD,Subscription,Closed Lost,41893.19,81200.96,2023-08-18,22/07/2025,Cynthia Gay,
+OPP-10524,Patel-Wilson,APAC,Australia,Architecture,Inventor,Flex,closed won,470698.61,1268348.25,2024-04-14,2025-11-15,Brandon Thompson,Natural American two change newspaper ever before challenge.
+OPP-10047,"Gallagher, Scott and Stone",apac,Australia,,BIM 360,Subscription,prospecting,112879.59,221339.58,2023-07-12,17/02/2025,Justin Mills,
+OPP-10203,"Nichols, Pitts and Whitehead",EMEA,Netherlands,Energy,Inventor,Subscription,prospecting,49035.55,105605.43,2023-11-26,2025-01-13,Robert Adams,
+OPP-10797,Stephens and Sons,Emea,UAE,Engineering,AutoCAD,Subscription,prospecting,148317.42,309299.02,2024-06-05,2025-05-22,Thomas Rivera,
+OPP-10631,Curry-Gill,EMEA ,Netherlands,Architecture,Forma,Flex,Negotiation,74812.56,220880.05,2023-09-12,2024-11-30,Katherine Hughes,Page Mr cultural field teacher.
+OPP-10021,Green-Jackson,emea,United Kingdom,Engineering,Revit,Subscription,PROPOSAL,235081.62,282162.86,2024-07-06,23/08/2024,Kathleen Smith,
+OPP-10402,"Hunter, Eaton and Hanson",EMEA ,United Kingdom,Construction,AutoCAD,Subscription,CLOSED LOST,131338.24,261796.82,2024-08-13,2025-01-19,Dr. Amanda Reyes,
+OPP-10083,Craig Ltd,EMEA ,Germany,Media & Entertainment,Revit,Subscription,Closed Won,127821.9,158971.43,2024-10-08,11/06/2024,Katherine Hughes,
+OPP-10130,Turner-Anderson,EMEA ,Netherlands,Engineering,Revit,EBA,Qualification ,1205641.64,3535905.11,2023-08-31,27/10/2022,Brandon Thompson,
+OPP-10415,Harmon PLC,EMEA ,UAE,Manufacturing,BIM 360,Flex,PROPOSAL,402172.93,709032.04,2023-02-08,2022-06-04,Frank Cochran,
+OPP-10741,"Weiss, Medina and Hall",Emea,Poland,,Civil 3D,Flex,Prospecting,146346.1,407972.86,2024-09-09,16/03/2025,Jennifer Cummings,
+OPP-10697,Morales Ltd,APAC,South Korea,Energy,BIM 360,Flex,PROPOSAL,87395.86,193644.05,2024-12-02,25/03/2025,Mary Christian,
+OPP-10286,Lopez-Camacho,AMER,Brazil,,Fusion 360,Subscription,Proposal,63850.89,108410.33,2023-04-27,2025-12-21,Jennifer Cummings,
+OPP-10123,Mitchell Group,EMEA,UAE,Manufacturing,AutoCAD,Flex,Proposal,237608.48,421086.83,2024-07-02,11/09/2025,Justin Mills,
+OPP-10033,Perry-Carter,emea,France,Media & Entertainment,Forma,Subscription,Closed Won,242739.76,514843.89,2023-06-22,2022-04-08,Mrs. Donna Ward,
+OPP-10516,Short LLC,EMEA ,Netherlands,Manufacturing,Inventor,EBA,Closed Won,1895381.84,2098826.5,2024-08-18,21/12/2025,Robert Burns,
+OPP-10019,"Jackson, Harrison and Diaz",Emea,Germany,Government,Fusion 360,Flex,Closed Won,,487427.77,2024-06-15,26/09/2024,Christopher King,
+OPP-10778,Schmidt-Anderson,amer,Brazil,Engineering,Civil 3D,Flex,Negotiation,247589.93,656475.69,2023-07-27,2024-01-07,Dr. Amanda Reyes,
+OPP-10219,Taylor-White,emea,United Kingdom,Manufacturing,Revit,EBA,Proposal,808221.38,1715645.25,2024-03-22,2025-08-08,Jonathan Reeves,
+OPP-10047,"Gallagher, Scott and Stone",apac,Australia,,BIM 360,Subscription,prospecting,112879.59,221339.58,2023-07-12,17/02/2025,Justin Mills,
+OPP-10481,Carter-Yu,APac,Australia,Architecture,Forma,Subscription,Closed Won,8507.18,12609.87,2023-05-10,2025-11-20,Justin Mills,
+OPP-10356,Brown-Moody,emea,UAE,Government,Forma,EBA,Prospecting,,,2024-11-24,28/09/2025,Justin Mills,
+OPP-10661,Thompson Inc,Emea,France,Energy,BIM 360,Flex,CLOSED LOST,476030.79,1321906.55,2024-11-12,19/06/2025,Nathan Gray,
+OPP-10224,Barber-Wilson,amer,Brazil,Energy,AutoCAD,Subscription,Proposal,238728.07,611396.01,2023-07-14,2024-04-20,Veronica Newman,
+OPP-10759,Holmes Inc,apac,India,Energy,Fusion 360,Subscription,prospecting,,187411.42,2023-02-12,2024-04-06,Nathan Gray,
+OPP-10092,Le-Floyd,EMEA,Germany,Manufacturing,AutoCAD,Subscription,Qualification,74329.01,83568.17,2023-12-13,24/03/2024,Matthew Bautista,
+OPP-10151,Pugh-Carter,EMEA,Poland,Architecture,Revit,EBA,Qualification ,433527.77,973753.79,2024-02-27,13/02/2025,Frank Cochran,Forward statement year political represent behind.
+OPP-10255,Reese and Sons,EMEA,UAE,Architecture,Forma,Subscription,prospecting,232079.02,475168.33,2023-12-29,2024-06-30,Mrs. Donna Ward,
+OPP-10317,Fernandez and Sons,Emea,Netherlands,,Forma,EBA,Proposal,1989299.64,5647708.21,2023-06-18,15/10/2025,Robert Burns,
+OPP-10448,Tate-Harrington,APAC,Japan,Engineering,Inventor,Flex,prospecting,280553.49,407144.18,2023-03-18,2024-07-13,Julie Molina,
+OPP-10745,"Garcia, Ford and Bauer",AMER,United States,Construction,Fusion 360,EBA,Closed Won,719456.29,1124925.49,2023-09-10,11/02/2025,Justin Mills,Direction west body tough cup quite.
+OPP-10522,"Griffin, Glenn and Russell",APAC,India,Engineering,Forma,Flex,Qualification ,388232.9,1147980.93,2024-01-26,17/02/2024,Matthew Bautista,Lawyer see talk effort son like PM hit.
+OPP-10279,Brown-Martinez,emea,Netherlands,Energy,AutoCAD,EBA,Proposal,,5420267.41,2024-02-01,10/11/2024,Jonathan Reeves,
+OPP-10583,"Perry, Huber and Owens",EMEA,Poland,Energy,AutoCAD,Flex,Negotiation,241956.92,541849.24,2024-06-07,2025-07-17,Shannon Gray,
+OPP-10764,Wilson-Garcia,amer,Brazil,Energy,Inventor,Subscription,PROPOSAL,59883.71,147304.6,2024-05-20,17/04/2025,Donald White,
+OPP-10604,Anthony Ltd,EMEA ,France,Architecture,Fusion 360,EBA,PROPOSAL,855747.6,874491.94,2023-12-09,18/06/2025,Mrs. Megan Smith DDS,Fill nor six that age condition believe window.
+OPP-10349,"Curtis, Rosario and Sanchez",emea,France,Engineering,Forma,EBA,Negotiation,900418.41,2694872.83,2023-02-09,15/03/2025,Nicole Mason,Wait hundred president sister laugh evening.
+OPP-10374,Graham PLC,EMEA,Poland,,AutoCAD,Flex,CLOSED LOST,346035.98,748849.75,2023-11-02,22/01/2025,Jennifer Cummings,
+OPP-10400,Vazquez-Cooper,APac,Singapore,,Forma,EBA,CLOSED LOST,424719.73,988722.22,2024-01-30,2024-06-27,Hannah Rivera,
+OPP-10704,"Cruz, Patterson and Jimenez",AMER,Canada,Construction,Civil 3D,Flex,PROPOSAL,348777.41,415629.41,2024-11-22,2024-11-30,Jonathan Reeves,
+OPP-10257,Reyes Inc,APac,India,Government,Forma,Flex,closed won,156338.59,243767.43,2024-05-19,2025-12-24,Debra Dawson,Left hotel become clear.
+OPP-10072,Harris Inc,AMER,Brazil,Energy,Inventor,EBA,Closed Won,216568.84,522918.68,2023-12-10,10/01/2025,Katherine Hughes,Arrive expect poor her opportunity debate real.
+OPP-10195,Mccann-Burton,apac,Japan,Construction,Forma,Subscription,closed won,68598.34,97978.61,2023-06-26,17/09/2025,Mary Christian,
+OPP-10483,Oliver-Watkins,APac,Australia,Government,AutoCAD,Flex,PROPOSAL,76458.21,157646.07,2023-07-31,14/02/2025,Thomas Rivera,
+OPP-10137,Rangel PLC,EMEA ,Germany,Media & Entertainment,Forma,Flex,Proposal,101149.83,233579.62,2023-06-20,17/06/2025,Dr. Amanda Reyes,
+OPP-10494,Howard-Mann,APAC,Australia,Energy,Revit,Subscription,Qualification,107860.84,126195.57,2023-09-26,2024-03-10,Robert Adams,Mrs people thing bit reality set around indicate.
+OPP-10772,"Goodman, Campos and Hall",AMER,Brazil,Government,AutoCAD,Flex,Qualification ,208776.77,323370.36,2024-12-04,2024-08-06,Thomas Rivera,
+OPP-10550,Wade-Oconnor,Emea,Germany,Construction,Fusion 360,EBA,PROPOSAL,1421512.71,2699088.83,2023-07-24,14/08/2025,Jeremy Mendoza,Human fall decide positive.
+OPP-10462,"Bowen, Pope and Daugherty",EMEA ,Germany,Construction,Civil 3D,Subscription,Prospecting,85906.33,150822.27,2024-07-26,14/02/2025,Katherine Hughes,
+OPP-10201,"Perez, West and Burns",EMEA ,France,,Revit,EBA,closed won,1260644.34,3184964.11,2024-05-17,18/06/2025,Emily Walker,
+OPP-10312,"Daniels, Bartlett and Hoover",APAC,Singapore,Energy,Revit,EBA,Proposal,1750580.0,4439489.75,2023-12-15,04/07/2025,Hannah Rivera,
+OPP-10290,"Carroll, Jones and Mitchell",EMEA ,Poland,Energy,AutoCAD,Flex,Qualification ,356787.16,818172.94,2023-02-13,2024-09-18,Julie Molina,Low its president class weight simple.
+OPP-10189,Stark Group,APac,India,Construction,BIM 360,EBA,Qualification ,554170.35,1540373.64,2023-09-20,2024-01-12,Thomas Rivera,
+OPP-10763,Carey-Greene,apac,India,Government,BIM 360,Flex,Qualification,123393.37,337227.35,2024-09-20,2025-03-27,Frank Cochran,
+OPP-10112,Martinez-Morgan,amer,Mexico,Architecture,BIM 360,Subscription,Closed Lost,284991.08,594910.3,2024-01-25,2024-02-09,Gary Weaver,
+OPP-10183,Robinson-Hogan,emea,Netherlands,Government,AutoCAD,Flex,Qualification,96759.44,135642.03,2024-06-26,07/03/2024,Justin Brown DDS,Plant small wall idea.
+OPP-10152,Young Ltd,AMER,Mexico,Manufacturing,Inventor,Flex,Qualification,489395.72,877334.49,2023-05-02,11/11/2024,Thomas Rivera,
+OPP-10325,Carter Group,APac,Singapore,Government,BIM 360,EBA,Closed Won,552268.99,818378.22,2024-10-19,2025-12-03,Julie Molina,
+OPP-10703,Long-White,APAC,South Korea,Government,BIM 360,EBA,Qualification,1670641.06,3021335.57,2023-03-15,2025-01-16,Robert Burns,
+OPP-10044,Horton Inc,amer,Canada,Engineering,AutoCAD,Subscription,Prospecting,0.0,,2023-01-29,04/08/2025,Donald Moore,
+OPP-10444,Banks-Ross,APac,Australia,,BIM 360,EBA,closed won,355153.28,474549.78,2023-08-13,2025-03-18,Donald White,
+OPP-10787,Diaz-Barnes,EMEA,Netherlands,Engineering,Fusion 360,Subscription,Closed Lost,202480.27,319522.93,2024-09-04,11/04/2025,Emily Walker,Onto note him smile.
+OPP-10006,Walsh Inc,AMER,United States,Construction,Revit,Flex,Negotiation,429231.57,1042950.7,2024-10-31,12/11/2025,Shannon Gray,
+OPP-10250,Holt Inc,emea,Germany,Manufacturing,Civil 3D,Subscription,prospecting,53504.35,154630.18,2023-07-11,29/06/2025,Brandon Thompson,
+OPP-10075,Miller Group,AMER,Canada,,Revit,Subscription,prospecting,216885.05,355867.14,2024-03-19,2025-12-03,Jennifer Cummings,
+OPP-10512,Collins and Sons,amer,Brazil,Government,AutoCAD,Flex,Prospecting,9999999.0,,2024-08-04,04/10/2025,Matthew Moore,Type my night name high drop computer relate.
+OPP-10391,Ingram LLC,amer,Brazil,Government,Revit,Flex,Closed Won,473227.89,1201278.95,2023-01-28,10/09/2025,Thomas Rivera,Same quality involve push job environmental.
+OPP-10432,Dickson-Guerrero,EMEA,Netherlands,Engineering,BIM 360,Flex,CLOSED LOST,299640.28,476085.04,2023-07-19,2024-01-02,Jennifer Logan,Past miss dog well any.
+OPP-10068,Nunez-Bennett,emea,United Kingdom,,BIM 360,EBA,Closed Won,222849.94,587410.92,2024-01-24,03/05/2025,Jennifer Logan,
+OPP-10167,Frank Group,EMEA ,UAE,Media & Entertainment,Fusion 360,Flex,Qualification,110005.73,126776.27,2023-04-10,22/10/2024,Jonathan Reeves,Car station town.
+OPP-10730,Clements Inc,amer,Mexico,Media & Entertainment,Civil 3D,Subscription,Closed Lost,86395.58,96478.69,2024-02-04,11/09/2025,Catherine Lewis,
+OPP-10554,Scott Group,APac,Japan,Government,AutoCAD,Flex,Qualification,419417.39,1225605.65,2024-08-21,2024-07-02,Shannon Gray,Campaign likely mission past popular often.
+OPP-10366,"Williams, Lucas and Davies",apac,Australia,Government,AutoCAD,Flex,Qualification,378447.83,927618.89,2023-07-13,2025-03-17,Kathleen Smith,
+OPP-10345,"Garcia, Robbins and Delacruz",EMEA,Germany,Government,AutoCAD,EBA,Closed Won,945847.74,1899602.79,2023-01-05,2025-05-10,Nicole Mason,
+OPP-10584,"Rodgers, Clark and Byrd",EMEA ,UAE,Construction,Revit,EBA,Qualification,555506.46,1423101.78,2023-10-01,20/03/2024,Donald Mccarty,
+OPP-10535,"Donovan, Ward and Mcmillan",apac,South Korea,Media & Entertainment,Forma,EBA,Qualification ,1899162.81,5069965.36,2023-01-29,19/07/2025,Katherine Hughes,Specific yard full chair station thus single.
+OPP-10398,Wright Group,Emea,Poland,Media & Entertainment,BIM 360,Subscription,Closed Lost,245627.61,411442.87,2023-12-29,2025-02-18,Catherine Lewis,
+OPP-10185,Wright-Greene,amer,Brazil,Energy,Forma,Subscription,closed won,225188.86,656506.13,2024-08-03,2024-04-19,Mrs. Donna Ward,Truth under medical sign.
+OPP-10348,Davidson and Sons,EMEA,France,Energy,Forma,Subscription,CLOSED LOST,70424.82,132095.89,2024-04-24,2024-10-30,Jennifer Cummings,Note number history sound image.
+OPP-10615,"Brooks, Phillips and Contreras",EMEA,United Kingdom,Construction,Civil 3D,EBA,Qualification ,579435.88,1298447.61,2024-03-14,15/09/2025,Katherine Hughes,Push factor phone visit threat recently if.
+OPP-10211,Powell-Barber,Emea,UAE,Energy,AutoCAD,Flex,Qualification ,404914.52,444053.83,2024-12-29,2025-09-06,Donald Mccarty,
+OPP-10579,Robbins Ltd,apac,Australia,Architecture,AutoCAD,Subscription,Qualification ,6707.76,10477.34,2023-01-22,25/06/2025,Cynthia Gay,Little west have owner officer on wife everybody.
+OPP-10502,Zavala Group,EMEA ,UAE,Architecture,Inventor,EBA,Closed Won,459290.16,592208.5,2023-01-07,10/04/2025,Hannah Rivera,Sport already stock production article mind low.
+OPP-10537,Ramirez-Barrett,APac,Singapore,Energy,Forma,Flex,Closed Won,255245.64,364126.94,2024-10-28,2024-09-20,Joseph Brown,Later large suffer view.
+OPP-10196,Lewis-Rowe,EMEA ,Netherlands,Energy,Forma,Subscription,Closed Won,263043.8,515208.99,2023-02-25,2024-08-23,Justin Mills,Better claim himself moment make type.
+OPP-10175,Perry LLC,amer,Canada,Energy,AutoCAD,Flex,Proposal,279602.11,454013.54,2024-07-19,04/11/2025,Matthew Bautista,

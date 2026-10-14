@@ -1,0 +1,13 @@
+practice/
+old_case_study_template.qmd
+case_study_template.html
+*.ipynb
+output/
+.quarto/
+*.quarto_ipynb*
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
