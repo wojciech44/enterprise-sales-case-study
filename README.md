@@ -3,7 +3,7 @@
 This project is a learning exercise that aims to produce a senior-stakeholder-ready report package, differently from the usual PowerPoint presentation. 
 The data used in this project is fictitious, but it aims to reproduce reporting dimensions typically encountered in corporate settings. The objective is to generate, clean, aggregate and analyse enterprise-level sales data.
 
-The report is located [here](https://github.com/wojciech44/enterprise-sales-case-study/blob/main/enterprise_sales_report.html)
+The report is located [here](https://wojciech44.github.io/enterprise-sales-case-study/enterprise_sales_report.html)
 ![](img/report_preview.png)
 
 ## Data
@@ -24,7 +24,7 @@ The data quality check showed that 17 transactions, together accounting for roug
 
 ## Key findings
 
-For more information see the detailed [report](https://github.com/wojciech44/enterprise-sales-case-study/blob/main/enterprise_sales_report.html).
+For more information see the detailed [report](https://wojciech44.github.io/enterprise-sales-case-study/enterprise_sales_report.html).
 
   - There was a significant increase in ACV for deals signed starting from Q4 2024, which continued to rise until the peak in Q2 2025 at $10m, before declining in Q3 2025 ($8.7m) and Q4 2025 ($6.9m).
   - EMEA is leading in 6 out of 7 products sold. A heatmap is a great tool to present financials broken down into categorical variables (product and region in this example).
